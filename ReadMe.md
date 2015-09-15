@@ -1,7 +1,7 @@
 Awesome Löve
 =============
 
-A categorized community-driven collection of high-quality awesome Unity libraries, projects, and resources.
+A categorized community-driven collection of high-quality awesome Löve libraries, projects, and resources.
 
 
 - [Awesome Love2D](#awesome-unity)
@@ -104,3 +104,9 @@ A categorized community-driven collection of high-quality awesome Unity librarie
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - . Using Lovecat, you can edit your game parameters in a browser, and see the changes in the running game in real time.
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - A small FPS graphing utility for LOVE
+
+# Contributing
+Please see [CONTRIBUTING](https://github.com/JanWerder/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
+
+# Other Awesome Lists
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
