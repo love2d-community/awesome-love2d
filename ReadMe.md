@@ -12,6 +12,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
   - [Entity](#entities)
   - [Helper Libraries](#helper Libraries)
   - [Input](#input)
+  - [Math](#math)
   - [Networking](#networking)
   - [Object Orientation](#object Orientation)
   - [Physics](#physics)
@@ -27,8 +28,6 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 ## 3D
 
 * [LOVE3D](https://github.com/excessive/love3d) - 3D extensions to LOVE
-
-* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - A math library designed for games
 
 * [IQM](https://github.com/excessive/iqm) - Inter-Quake Model loader
 
@@ -71,14 +70,17 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 * [knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua. (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 
-* [mlib](https://github.com/davisdude/mlib) - MLib is a math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use. (Collision-Math)
-
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Simple Tiled Implementation is a Tiled Map Editor library designed for the awesome LÖVE framework.
 
 ## Input
 
 * [tactile](https://github.com/tesselode/tactile) -  A straightfoward and flexible input library for LÖVE.
 
+## Math
+
+* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - A math/intersection library designed for games
+
+* [MLib](https://github.com/davisdude/mlib) - MLib is a math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use. (Collision-Math)
 
 ## Networking
 
