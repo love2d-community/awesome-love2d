@@ -56,9 +56,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 ## Networking
 
-* [LUBE](https://github.com/bartbes/love-misc-libs/blob/LUBE-1.0/LUBE/docs.md) - LUBE is a networking library intended to make networking easy for lovers
-
-* [lua-enet](http://leafo.net/lua-enet/) -  lua-enet is a binding to the ENet library for Lua. ENet is a thin network communication layer over UDP that provides high performance and reliable communication that is suitable for games. The interface exposes an asynchronous way of creating clients and servers that is easy to integrate into existing event loops.
+* [LUBE](https://github.com/bartbes/love-misc-libs/blob/LUBE-1.0/LUBE/docs.md) - LUBE is a networking library intended to make networking easy for lovers (TCP, UDP, Enet)
 
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging for CoronaSDK, Moai, Gideros & LÖVE
 
@@ -96,8 +94,6 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 * [Shadertoy viewer](https://love2d.org/forums/viewtopic.php?f=5&t=80885) - can run the code copied from shadertoy directly, or you can output the converted code to love shader.
 
 ## Tweening
-
-* [AnAL](https://love2d.org/forums/viewtopic.php?f=5&t=948) - The animations replacement lib
 
 * [tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for lua. Inspired on jQuery's animate method.
 
