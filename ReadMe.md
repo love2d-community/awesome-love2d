@@ -2,26 +2,24 @@
 
 A categorized community-driven collection of high-quality, awesome LÖVE libraries, projects, and resources.
 
-* [Awesome LÖVE](#awesome-unity)
-  * [3D](#3d)
-  * [AI](#ai)
-  * [Animation](#animation)
-  * [Camera](#camera)
-  * [Development](#development)
-  * [Entity](#entity)
-  * [Helper Libraries](#helper)
-  * [Input](#input)
-  * [Math](#math)
-  * [Networking](#networking)
-  * [Object Orientation](#object)
-  * [Physics](#physics)
-  * [Platforms](#platforms)
-  * [Serialization](#serialization)
-  * [Shaders](#shaders)
-  * [Tweening](#tweening)
-  * [UI](#ui)
-  * [Utilities](#utilities)
-
+* [3D](#3d)
+* [AI](#ai)
+* [Animation](#animation)
+* [Camera](#camera)
+* [Development](#development)
+* [Entity](#entity)
+* [Helper Libraries](#helper)
+* [Input](#input)
+* [Math](#math)
+* [Networking](#networking)
+* [Object Orientation](#object)
+* [Physics](#physics)
+* [Platforms](#platforms)
+* [Serialization](#serialization)
+* [Shaders](#shaders)
+* [Tweening](#tweening)
+* [UI](#ui)
+* [Utilities](#utilities)
 
 ## 3D
 
@@ -131,7 +129,6 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
 
-
 ## Shaders
 
 * [Shadertoy viewer](https://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
@@ -163,7 +160,9 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
 
 # Contributing
+
 Please see [CONTRIBUTING](https://github.com/JanWerder/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
 
 # Other Awesome Lists
+
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
