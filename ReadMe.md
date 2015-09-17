@@ -15,12 +15,14 @@ A categorized community-driven collection of high-quality awesome Löve librarie
   - [Networking](#networking)
   - [Object Orientation](#object Orientation)
   - [Physics](#physics)
+  - [Platforms](#platforms)
   - [Serialisation](#serialisation)
   - [Shaders](#shaders)
   - [Tweening](#tweening)
   - [UI](#ui)
   - [Utilities](#utilities)
   - [Development](#development)
+
 
 ## 3D
 
@@ -102,6 +104,10 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 * [Lope2D](https://bitbucket.org/erlimoen/lope2d-v2/wiki/Home) - Lope2D is a wrap over Love2D physics engine API. It makes dealing with the physics API easier and faster.
 
+##Platforms
+
+* [LovePotion](https://github.com/VideahGams/LovePotion) - LövePotion is an unofficial work in progress implementation of the LÖVE API for 3DS Homebrew.
+
 ## Serialisation
 
 * [Ser](https://github.com/gvx/Ser) - A fast, robust, richly-featured table serialisation library for Lua
@@ -141,6 +147,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 * [i18n](https://github.com/excessive/i18n) - An internationalization library designed to help localize your game
 
+* [splashy](https://github.com/VideahGams/splashy) - Love2D Splash Screen Library
 
 ## Development
 
@@ -151,6 +158,8 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Using Lovecat, you can edit your game parameters in a browser, and see the changes in the running game in real time.
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - A small FPS graphing utility for LOVE
+
+* [love-ide](https://github.com/rameshvarun/love-ide) - Tools for programming LÖVE games in Atom.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/JanWerder/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
