@@ -106,6 +106,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 ## Shaders
 
 * [Shadertoy viewer](https://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
+* [shine](https://github.com/vrld/shine) - Postprocessing effect repository for LÖVE
 
 ## Tweening
 
