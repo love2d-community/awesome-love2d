@@ -6,6 +6,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 - [Awesome Love2D](#awesome-unity)
   - [AI](#AI)
+  - [Animation](#Animation)
   - [Camera](#camera)
   - [Entity](#entities)
   - [Helper Libraries](#Helper Libraries)
@@ -18,11 +19,19 @@ A categorized community-driven collection of high-quality awesome Löve librarie
   - [Tweening](#tweening)
   - [UI](#ui)
   - [Utilities](#utilities)
-  - [Development](development)
+  - [Development](#development)
 
 ## AI
 
 * [Jumper](https://github.com/Yonaba/Jumper) - Jumper is a pathfinding library designed for grid-based games.
+
+##Animation
+
+* [Walt](https://github.com/davisdude/Walt) - An animation library for LÖVE.
+
+* [skeletor](https://github.com/pelevesque/skeletor) - A 2D skeletal animation system for LÖVE 2D.
+
+* [Anim8](https://github.com/kikito/anim8) - An animation library for LÖVE
 
 
 ## Camera
@@ -97,9 +106,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 * [tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for lua. Inspired on jQuery's animate method.
 
-* [Walt](https://github.com/davisdude/Walt) - An animation library for LÖVE.
-
-* [skeletor](https://github.com/pelevesque/skeletor) - A 2D skeletal animation system for LÖVE 2D.
+* [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
 
 ## UI
 
