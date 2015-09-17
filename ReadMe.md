@@ -5,6 +5,7 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 
 
 - [Awesome Love2D](#awesome-unity)
+  - [3D](#3D)
   - [AI](#AI)
   - [Animation](#Animation)
   - [Camera](#camera)
@@ -21,11 +22,23 @@ A categorized community-driven collection of high-quality awesome Löve librarie
   - [Utilities](#utilities)
   - [Development](#development)
 
+## 3D
+
+* [LOVE3D](https://github.com/excessive/love3d) - 3D extensions to LOVE
+
+* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - A math library designed for games
+
+* [IQM](https://github.com/excessive/iqm) - Inter-Quake Model loader
+
+* [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader
+
+* [anim9](https://github.com/excessive/anim9) - An animation library (design to be used with IQM and IQE)
+
 ## AI
 
 * [Jumper](https://github.com/Yonaba/Jumper) - Jumper is a pathfinding library designed for grid-based games.
 
-##Animation
+## Animation
 
 * [Walt](https://github.com/davisdude/Walt) - An animation library for LÖVE.
 
@@ -57,6 +70,8 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 * [knife](https://github.com/airstruck/knife) - A collection of useful micro-modules for Lua. (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 
 * [mlib](https://github.com/davisdude/mlib) - MLib is a math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use. (Collision-Math)
+
+* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Simple Tiled Implementation is a Tiled Map Editor library designed for the awesome LÖVE framework.
 
 ## Input
 
@@ -121,6 +136,11 @@ A categorized community-driven collection of high-quality awesome Löve librarie
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader for Löve2D Framework
 
 * [punchdrunk](https://github.com/TannerRogalsky/punchdrunk) - An attempt to replicate the LÖVE API in the browser using moonshine
+
+* [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
+
+* [i18n](https://github.com/excessive/i18n) - An internationalization library designed to help localize your game
+
 
 ## Development
 
