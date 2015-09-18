@@ -55,6 +55,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 ## Entity
 
+* [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
 
 ## <a name="helper"></a>Helper Libraries
@@ -83,6 +84,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [HUMP.class](http://vrld.github.io/hump/#hump.class) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
+* [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
 ## Physics
@@ -112,6 +114,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
 * [HUMP.timer](https://vrld.github.io/hump/#hump.timer) - Delayed and time-limited function calls and tweening support
+* [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 * [tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
 
 ## UI
