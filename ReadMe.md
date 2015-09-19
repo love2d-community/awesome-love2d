@@ -101,6 +101,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
+* [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script.
 * [Lady](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
 * [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
