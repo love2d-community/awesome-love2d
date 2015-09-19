@@ -64,6 +64,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer
+* [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
 
 ## Input
 
