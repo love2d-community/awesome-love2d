@@ -7,6 +7,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Animation](#animation)
 * [Camera](#camera)
 * [Development](#development)
+* [Drawing](#drawing)
 * [Entity](#entity)
 * [Helper Libraries](#helper)
 * [Input](#input)
@@ -52,6 +53,10 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
+
+## Drawing
+
+* [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 
 ## Entity
 
