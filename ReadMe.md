@@ -103,6 +103,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API
 * [LovePotion](https://github.com/VideahGams/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew
+* [punchdrunk](https://github.com/TannerRogalsky/punchdrunk) - An attempt to replicate the LÖVE API in the browser using moonshine
 
 ## Serialization
 
@@ -136,7 +137,6 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
-* [punchdrunk](https://github.com/TannerRogalsky/punchdrunk) - An attempt to replicate the LÖVE API in the browser using moonshine
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
 
 # Contributing
