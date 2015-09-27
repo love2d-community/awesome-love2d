@@ -101,6 +101,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 ##Platforms
 
+* [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API
 * [LovePotion](https://github.com/VideahGams/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew
 
 ## Serialization
