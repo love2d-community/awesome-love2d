@@ -98,7 +98,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
 
 ## <a name="object"></a>Object Orientation
-*Object Orientation Libraries that support class commons*
+*Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
 * [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
