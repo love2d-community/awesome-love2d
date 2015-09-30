@@ -107,7 +107,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
 ## Physics
-*Collision Dectection & Physics Wrappers*
+*Collision Detection & Physics Wrappers*
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [Hardon Collider](http://vrld.github.io/HardonCollider/) - Simplify one important aspect in computer games: Collision detection
