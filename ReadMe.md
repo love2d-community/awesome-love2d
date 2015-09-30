@@ -89,6 +89,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
+* [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
 
 ## Networking
 *Networking & Online-Play Libraries*
