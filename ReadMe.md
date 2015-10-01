@@ -98,7 +98,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
 
 ## <a name="object"></a>Object Orientation
-*Object Orientation Libraries that support class commons*
+*Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
 * [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
@@ -107,7 +107,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
 ## Physics
-*Collision Dectection & Physics Wrappers*
+*Collision Detection & Physics Wrappers*
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [Hardon Collider](http://vrld.github.io/HardonCollider/) - Simplify one important aspect in computer games: Collision detection
