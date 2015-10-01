@@ -156,6 +156,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
+* [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
