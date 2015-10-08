@@ -11,6 +11,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Entity](#entity)
 * [Helper Libraries](#helper)
 * [Input](#input)
+* [Lighting](#lighting)
 * [Math](#math)
 * [Networking](#networking)
 * [Object Orientation](#object)
@@ -83,6 +84,11 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 *Input & Binding Libraries*
 
 * [tactile](https://github.com/tesselode/tactile) -  A straightforward and flexible input library
+
+## Lighting
+*Lighting & Shadow Libraries*
+
+* [Light World](https://github.com/tanema/light_world.lua) - A lighting model
 
 ## Math
 *Math specific Libraries*
