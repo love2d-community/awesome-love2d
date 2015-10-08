@@ -110,7 +110,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 *Collision Detection & Physics Wrappers*
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
-* [Hardon Collider](http://vrld.github.io/HardonCollider/) - Simplify one important aspect in computer games: Collision detection
+* [Hardon Collider](http://vrld.github.io/HC/) - Simplify one important aspect in computer games: Collision detection
 * [Lope2D](https://bitbucket.org/erlimoen/lope2d-v2/wiki/Home) - Wrap for love.physics; makes dealing with the physics API easier and faster
 
 ##Platforms
