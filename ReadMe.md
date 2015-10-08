@@ -11,6 +11,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Entity](#entity)
 * [Helper Libraries](#helper)
 * [Input](#input)
+* [Lighting](#lighting)
 * [Math](#math)
 * [Networking](#networking)
 * [Object Orientation](#object)
@@ -84,12 +85,17 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [tactile](https://github.com/tesselode/tactile) -  A straightforward and flexible input library
 
+## Lighting
+*Lighting & Shadow Libraries*
+
+* [Light World](https://github.com/tanema/light_world.lua) - A lighting model
+
 ## Math
 *Math specific Libraries*
 
 * [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games
-* [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
+* [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 
 ## Networking
 *Networking & Online-Play Libraries*
