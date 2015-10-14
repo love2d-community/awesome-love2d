@@ -174,5 +174,6 @@ Please see [CONTRIBUTING](https://github.com/JanWerder/awesome-love2d/blob/maste
 # Other Awesome Lists
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
+* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE.
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
