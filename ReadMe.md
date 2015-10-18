@@ -83,7 +83,8 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 ## Input
 *Input & Binding Libraries*
 
-* [tactile](https://github.com/tesselode/tactile) -  A straightforward and flexible input library
+* [boipushy](https://github.com/adonaac/boipushy) - A simple and easy to use input handler
+* [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
 
 ## Lighting
 *Lighting & Shadow Libraries*
