@@ -125,6 +125,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API
 * [LovePotion](https://github.com/VideahGams/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew
+* [Motor2D](https://github.com/rnlf/motor) - A port of LÖVE the Web 
 * [punchdrunk](https://github.com/TannerRogalsky/punchdrunk) - An attempt to replicate the LÖVE API in the browser using moonshine
 
 ## Serialization
