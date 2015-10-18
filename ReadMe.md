@@ -11,6 +11,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Entity](#entity)
 * [Helper Libraries](#helper)
 * [Input](#input)
+* [Lighting](#lighting)
 * [Math](#math)
 * [Networking](#networking)
 * [Object Orientation](#object)
@@ -82,14 +83,20 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 ## Input
 *Input & Binding Libraries*
 
-* [tactile](https://github.com/tesselode/tactile) -  A straightforward and flexible input library
+* [boipushy](https://github.com/adonaac/boipushy) - A simple and easy to use input handler
+* [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
+
+## Lighting
+*Lighting & Shadow Libraries*
+
+* [Light World](https://github.com/tanema/light_world.lua) - A lighting model
 
 ## Math
 *Math specific Libraries*
 
 * [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games
-* [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
+* [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 
 ## Networking
 *Networking & Online-Play Libraries*
@@ -151,6 +158,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library
 * [LoveFrames](https://github.com/KennyShields/LoveFrames) - GUI library
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
+* [Thranduil](https://github.com/adonaac/thranduil) - A highly customable and easy to use UI
 
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
@@ -160,6 +168,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
+* [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
 
 # Contributing
@@ -169,5 +178,6 @@ Please see [CONTRIBUTING](https://github.com/JanWerder/awesome-love2d/blob/maste
 # Other Awesome Lists
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
+* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE.
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
