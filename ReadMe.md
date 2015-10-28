@@ -148,6 +148,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 *Libraries and Tools for Unit Testing*
 
 * [busted](http://olivinelabs.com/busted/) - Simple unit-testing framework with customizable assertions
+* [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework
 * [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
