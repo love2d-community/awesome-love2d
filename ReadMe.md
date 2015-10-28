@@ -19,6 +19,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Platforms](#platforms)
 * [Serialization](#serialization)
 * [Shaders](#shaders)
+* [Testing](#testing)
 * [Tweening](#tweening)
 * [UI](#ui)
 * [Utilities](#utilities)
@@ -142,6 +143,15 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [Shadertoy viewer](https://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
 * [shine](https://github.com/vrld/shine) - Postprocessing effect repository for LÖVE
+
+## Testing
+*Libraries and Tools for Unit Testing*
+
+* [busted](http://olivinelabs.com/busted/) - Simple unit-testing framework with customizable assertions
+* [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
+* [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
+* [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
+* [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
 
 ## Tweening
 *Smoothing & Timer Libraries*
