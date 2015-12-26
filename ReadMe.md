@@ -56,6 +56,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 *Development assisting Libraries, that enrich your development experience*
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility
+* [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
 * [love-ide](https://github.com/rameshvarun/love-ide) - Tools for programming LÖVE games in Atom
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
