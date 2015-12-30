@@ -172,6 +172,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [LoveFrames](https://github.com/KennyShields/LoveFrames) - GUI library
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [Thranduil](https://github.com/adonaac/thranduil) - A highly customable and easy to use UI
+* [Gspöt](https://github.com/pgimeno/Gspot) - a stateful GUI lib for LÖVE
 
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
