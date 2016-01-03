@@ -61,6 +61,10 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
+* [LÖVE API](https://github.com/rm-code/love-api) - The complete API documentation of LÖVE in a Lua table
+* [LÖVE Atom](https://github.com/rm-code/love-atom) - Snippets and autocompletion for [Atom](https://atom.io/)
+* [LÖVE Hints](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Snippets, code hints and autocompletion for [Brackets](http://brackets.io/)
+* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
