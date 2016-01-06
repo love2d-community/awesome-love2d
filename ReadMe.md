@@ -50,7 +50,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Brady](https://github.com/davisdude/Brady) - Camera library with parallax scrolling
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid
 * [gamera](https://github.com/kikito/gamera) - Camera system
-* [HUMP.camera](http://vrld.github.io/hump/#hump.camera) - Camera can "look" at a position. It can zoom in and out and it can rotate it's view. In the background, this is done by actually moving, scaling and rotating everything in the game world. But don't worry about that.
+* [hump.camera](http://hump.readthedocs.org/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
@@ -80,7 +80,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 ## <a name="helper"></a>Helper Libraries
 *Game specific Library bundles, that provide reuseable functions*
 
-* [HUMP](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timer, Vector, Class, Signal, Camera)
+* [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer
@@ -103,6 +103,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
+* [hump.vector](http://hump.readthedocs.org/en/latest/vector.html) - Powerful 2D vector class
 
 ## Networking
 *Networking & Online-Play Libraries*
@@ -115,7 +116,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
-* [HUMP.class](http://vrld.github.io/hump/#hump.class) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
+* [hump.class](http://hump.readthedocs.org/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
@@ -123,7 +124,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 *Collision Detection & Physics Wrappers*
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
-* [Hardon Collider](http://vrld.github.io/HC/) - Simplify one important aspect in computer games: Collision detection
+* [HC](http://vrld.github.io/HC/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [Lope2D](https://bitbucket.org/erlimoen/lope2d-v2/wiki/Home) - Wrap for love.physics; makes dealing with the physics API easier and faster
 
 ##Platforms
@@ -148,7 +149,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [Shadertoy viewer](https://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
-* [shine](https://github.com/vrld/shine) - Postprocessing effect repository for LÖVE
+* [shine](https://github.com/vrld/shine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ## Testing
 *Libraries and Tools for Unit Testing*
@@ -165,7 +166,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 *Smoothing & Timer Libraries*
 
 * [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
-* [HUMP.timer](https://vrld.github.io/hump/#hump.timer) - Delayed and time-limited function calls and tweening support
+* [hump.timer](http://hump.readthedocs.org/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 * [tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
 
@@ -177,6 +178,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [Thranduil](https://github.com/adonaac/thranduil) - A highly customable and easy to use UI
 * [Gspöt](https://github.com/pgimeno/Gspot) - a stateful GUI lib for LÖVE
+* [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
 
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
