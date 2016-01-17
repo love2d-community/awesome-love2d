@@ -41,6 +41,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 *Animation & Frame-Managing Libraries*
 
 * [anim8](https://github.com/kikito/anim8) - Animation library
+* [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
 * [Walt](https://github.com/davisdude/Walt) - Animation library
 
@@ -144,6 +145,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Lady](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
 * [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
+* [trickle](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking
 
 ## Shaders
 *GLSL related Libraries*
@@ -160,6 +162,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [Luassert](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests 
 * [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
+* [lust](https://github.com/bjornbytes/lust) - Minimal test framework
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
 
@@ -184,6 +187,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
 
+* [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
@@ -191,6 +195,7 @@ A categorized community-driven collection of high-quality, awesome LÖVE librari
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
+* [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 
 # Contributing
 
