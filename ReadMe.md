@@ -1,4 +1,4 @@
-# Awesome LÖVE [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# ![Awesome Löve](http://i.imgur.com/mclZBfg.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A categorized community-driven collection of high-quality, awesome [LÖVE](https://love2d.org) libraries, projects, and resources.
 
