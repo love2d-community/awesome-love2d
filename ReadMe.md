@@ -200,7 +200,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/JanWerder/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
 
 # Other Awesome Lists
 
