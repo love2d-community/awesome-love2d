@@ -110,7 +110,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 ## Networking
 *Networking & Online-Play Libraries*
 
-* [LUBE](https://github.com/bartbes/love-misc-libs/blob/LUBE-1.0/LUBE/docs.md) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
+* [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
 
 ## <a name="object"></a>Object Orientation
