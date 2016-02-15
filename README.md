@@ -1,6 +1,7 @@
 # ![Awesome Löve](logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A categorized community-driven collection of high-quality, awesome [LÖVE](https://love2d.org) libraries, projects, and resources. 
 
+## Table of contents
 
 * [3D](#3d)
 * [AI](#ai)
@@ -20,6 +21,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Serialization](#serialization)
 * [Shaders](#shaders)
 * [Testing](#testing)
+* [Tutorials](#tutorials)
 * [Tweening](#tweening)
 * [UI](#ui)
 * [Utilities](#utilities)
@@ -166,6 +168,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [lust](https://github.com/bjornbytes/lust) - Minimal test framework
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
+
+## Tutorials
+
+* [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
+* [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 
 ## Tweening
 *Smoothing & Timer Libraries*
