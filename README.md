@@ -45,6 +45,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [anim8](https://github.com/kikito/anim8) - Animation library
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
+* [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library
 * [Walt](https://github.com/davisdude/Walt) - Animation library
 
 ## Camera
@@ -203,6 +204,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
+* [Talkback](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication.
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 
 # Contributing
