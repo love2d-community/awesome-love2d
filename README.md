@@ -75,6 +75,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *Drawing specific Libraries, that simplify the Drawing process*
 
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
+* [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
