@@ -63,8 +63,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
 * [love-ide](https://github.com/rameshvarun/love-ide) - Tools for programming LÖVE games in Atom
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
-* [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
+* [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
 * [LÖVE Atom](https://github.com/rm-code/love-atom) - Snippets and autocompletion for [Atom](https://atom.io/)
@@ -89,6 +89,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
+* [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game.
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
