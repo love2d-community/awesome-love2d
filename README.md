@@ -197,9 +197,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *User Interface Libraries*
 
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library
-* [LoveFrames](https://github.com/KennyShields/LoveFrames) - GUI library
+* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
-* [Thranduil](https://github.com/adonaac/thranduil) - A highly customable and easy to use UI
 * [Gspöt](https://github.com/pgimeno/Gspot) - a stateful GUI lib for LÖVE
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
 
