@@ -22,10 +22,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Serialization](#serialization)
 * [Shaders](#shaders)
 * [Testing](#testing)
-* [Tutorials](#tutorials)
 * [Tweening](#tweening)
 * [UI](#ui)
 * [Utilities](#utilities)
+
+* [Tutorials](#tutorials)
+* [IDEs](#IDEs)
 
 ## 3D
 *3D-centric Libraries*
@@ -180,11 +182,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
 
-## Tutorials
-
-* [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
-* [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
-
 ## Tweening
 *Smoothing & Timer Libraries*
 
@@ -215,6 +212,21 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
 * [Talkback](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication.
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
+
+## Tutorials
+
+* [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
+* [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
+
+## IDEs
+
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century
+	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package.
+	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom.
+		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE.
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
+	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE 2D for the current project without having to leave Atom.
+* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support 
 
 # Contributing
 
