@@ -64,14 +64,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
-* [love-ide](https://github.com/rameshvarun/love-ide) - Tools for programming LÖVE games in Atom
 * [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
 * [Lovecat](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
-* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
@@ -212,11 +209,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 
 ## Tutorials
+*Blogs and tutorials*
 
 * [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 
 ## IDEs
+*Integrated Development Enviroments and text editor plugins*
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package.
@@ -225,6 +224,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE 2D for the current project without having to leave Atom.
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support 
+* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
 
 # Contributing
 
