@@ -25,7 +25,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Tweening](#tweening)
 * [UI](#ui)
 * [Utilities](#utilities)
-
+<br><br>
 * [Tutorials](#tutorials)
 * [IDEs](#IDEs)
 
