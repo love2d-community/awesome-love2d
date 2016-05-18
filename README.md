@@ -27,7 +27,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Utilities](#utilities)
 <br><br>
 * [Tutorials](#tutorials)
-* [IDEs](#IDEs)
+* [IDEs](#ides)
 
 ## 3D
 *3D-centric Libraries*
