@@ -115,6 +115,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *Music related libraries*
 
 * [wave](https://github.com/Ulydev/wave) - a sound manager with audio parsing and rhythm functionalities
+* [denver.lua](https://github.com/superzazu/denver.lua) - A custom waveform generation library
 
 ## Networking
 *Networking & Online-Play Libraries*
