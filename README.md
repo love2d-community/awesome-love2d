@@ -137,7 +137,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://vrld.github.io/HC/) - Collision detection with arbitrary polygons; allows rotation of objects
-* [Lope2D](https://bitbucket.org/erlimoen/lope2d-v2/wiki/Home) - Wrap for love.physics; makes dealing with the physics API easier and faster
 
 ##Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
