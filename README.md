@@ -192,6 +192,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [Gspöt](https://github.com/pgimeno/Gspot) - a stateful GUI lib for LÖVE
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
+* [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for the Löve2D
 
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
