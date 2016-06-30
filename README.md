@@ -49,6 +49,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
 * [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library
 * [Walt](https://github.com/davisdude/Walt) - Animation library
+* [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
 
 ## Camera
 *Viewport & Camera Libraries*
