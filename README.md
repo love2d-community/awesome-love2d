@@ -119,7 +119,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 ## Music
 *Music related libraries*
 
-* [wave](https://github.com/Ulydev/wave) - a sound manager with audio parsing and rhythm functionalities
+* [wave](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities
 * [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library
 
 ## Networking
@@ -194,7 +194,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library
-* [Gspöt](https://github.com/pgimeno/Gspot) - a stateful GUI lib for LÖVE
+* [Gspöt](https://github.com/pgimeno/Gspot) - A stateful GUI lib for LÖVE
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
