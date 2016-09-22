@@ -40,6 +40,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *Navigation, Decision-Making and AI Libraries*
 
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
+* [LifeAI](https://github.com/Ortimh/Lua-LifeAI) - Lua LifeAI is a Lua binding for the LifeAI open-source C++ library for AI decision-making
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -76,6 +77,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
+* [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
@@ -97,6 +99,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 ## Input
 *Input & Binding Libraries*
 
+* [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls
 * [boipushy](https://github.com/adonaac/boipushy) - A simple and easy to use input handler
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
 
@@ -189,18 +192,21 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 ## UI
 *User Interface Libraries*
 
+* [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library
-* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
-* [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [Gspöt](https://github.com/pgimeno/Gspot) - a stateful GUI lib for LÖVE
+* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
+* [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
+* [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
+* [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
-* [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for the Löve2D
 
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
 
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
+* [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
