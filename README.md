@@ -40,7 +40,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *Navigation, Decision-Making and AI Libraries*
 
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
-* [LifeAI](https://github.com/Ortimh/Lua-LifeAI) - Lua LifeAI is a Lua binding for the LifeAI open-source C++ library for AI decision-making
 
 ## Animation
 *Animation & Frame-Managing Libraries*
