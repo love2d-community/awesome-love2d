@@ -122,6 +122,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 ## Music
 *Music related libraries*
 
+* [ripple](https://github.com/tesselode/ripple) - An audio library for sound effects and music
 * [wave](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities
 * [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library
 
