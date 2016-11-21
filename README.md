@@ -145,7 +145,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *Collision Detection & Physics Wrappers*
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
-* [HC](http://vrld.github.io/HC/) - Collision detection with arbitrary polygons; allows rotation of objects
+* [HC](http://vrld.github.io/HardonCollider/) - Collision detection with arbitrary polygons; allows rotation of objects
 
 ##Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
