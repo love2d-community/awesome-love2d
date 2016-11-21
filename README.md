@@ -239,6 +239,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support 
 * [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
+* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for [Notepad++](https://notepad-plus-plus.org/)
 
 # Contributing
 
