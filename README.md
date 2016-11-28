@@ -1,5 +1,5 @@
 # ![Awesome Löve](logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A categorized community-driven collection of high-quality, awesome [LÖVE](https://love2d.org) libraries, projects, and resources. 
+A categorized community-driven collection of high-quality, awesome [LÖVE](https://love2d.org) libraries, projects, and resources.
 
 ## Table of contents
 
@@ -82,6 +82,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 ## Entity
 *Entity and Gameobject Managing Libraries*
 
+* [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional
+Entity Component System.
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
 
@@ -178,7 +180,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 
 * [busted](http://olivinelabs.com/busted/) - Simple unit-testing framework with customizable assertions
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework
-* [Luassert](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests 
+* [Luassert](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests
 * [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
 * [lust](https://github.com/bjornbytes/lust) - Minimal test framework
@@ -237,7 +239,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE.
 		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE 2D for the current project without having to leave Atom.
-* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support 
+* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support
 * [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
 * [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for [Notepad++](https://notepad-plus-plus.org/)
