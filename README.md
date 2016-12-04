@@ -133,6 +133,7 @@ Entity Component System.
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
+* [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games
 
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
