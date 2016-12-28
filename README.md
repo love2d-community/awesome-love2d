@@ -35,6 +35,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
 * [IQM](https://github.com/excessive/iqm) - Inter-Quake Model loader (binary)
 * [LÖVE3D](https://github.com/excessive/love3d) - 3D extensions to LÖVE
+* [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 
 ## AI
 *Navigation, Decision-Making and AI Libraries*
