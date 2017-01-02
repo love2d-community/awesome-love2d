@@ -243,6 +243,8 @@ Entity Component System.
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE.
 		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE 2D for the current project without having to leave Atom.
+	* [language-lua](https://github.com/FireZenk/language-lua) - Lua language support in Atom.
+	* [linter-luacheck](https://github.com/AtomLinter/linter-luacheck) - Lint Lua on the fly, using luacheck.
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support
 * [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
