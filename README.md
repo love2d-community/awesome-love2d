@@ -234,6 +234,7 @@ Entity Component System.
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc).
+* [How to LÖVE](http://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
 
 ## IDEs
 *Integrated Development Enviroments and text editor plugins*
