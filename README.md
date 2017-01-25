@@ -251,6 +251,7 @@ Entity Component System.
 * [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
 * [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for [Notepad++](https://notepad-plus-plus.org/)
+* [BabeLua a free lua debugger extension for Visual Studio 2012/2013/2015)](https://babelua.codeplex.com/) - code highlight and auto completion; syntax error check; lightweight project management; preview file outline and jump; list token references quickly; object-oriented model support; Formatting code; debugger/set breakpoint/watch variable/call stack
 
 # Contributing
 
