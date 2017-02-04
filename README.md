@@ -17,6 +17,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Music](#music)
 * [Networking](#networking)
 * [Object Orientation](#object)
+* [Performance](#performance)
 * [Physics](#physics)
 * [Platforms](#platforms)
 * [Serialization](#serialization)
@@ -145,6 +146,12 @@ Entity Component System.
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+
+## Performance
+*Performance measurement tools*
+
+* [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE
+* [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua is a small, non-intrusive module for finding bottlenecks in your Lua code
 
 ## Physics
 *Collision Detection & Physics Wrappers*
