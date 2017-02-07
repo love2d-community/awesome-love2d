@@ -20,6 +20,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [Performance](#performance)
 * [Physics](#physics)
 * [Platforms](#platforms)
+* [Publishing](#publishing)
 * [Serialization](#serialization)
 * [Shaders](#shaders)
 * [Testing](#testing)
@@ -168,6 +169,10 @@ Entity Component System.
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
 * [LovePotion](https://github.com/VideahGams/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew
 * [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten
+
+## Publishing
+
+* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
 
 ## Serialization
 *Save Game & Storage Libraries*
