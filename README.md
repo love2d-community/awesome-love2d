@@ -86,8 +86,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 ## Entity
 *Entity and Gameobject Managing Libraries*
 
-* [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional
-Entity Component System.
+* [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
 
@@ -97,13 +96,13 @@ Entity Component System.
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and rougelike video games
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
-* [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game.
+* [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
 * [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework
-* [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation.
+* [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer
-* [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
+* [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library
 
 ## Input
 *Input & Binding Libraries*
@@ -173,14 +172,14 @@ Entity Component System.
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
 
-* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
+* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store
 
 ## Serialization
 *Save Game & Storage Libraries*
 
 * [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
-* [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script.
+* [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script
 * [Lady](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
 * [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
@@ -189,7 +188,7 @@ Entity Component System.
 ## Shaders
 *GLSL related Libraries*
 
-* [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
+* [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
 * [Shadertoy viewer](https://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
 * [shine](https://github.com/vrld/shine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
@@ -239,8 +238,8 @@ Entity Component System.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy](https://github.com/VideahGams/splashy) - Splash Screen Library
-* [Talkback](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication.
-* [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
+* [Talkback](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication
+* [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
 
 ## Tutorials
 *Blogs and tutorials*
@@ -248,20 +247,20 @@ Entity Component System.
 * [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
-* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc).
+* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
 * [How to LÖVE](http://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
 
 ## IDEs
 *Integrated Development Enviroments and text editor plugins*
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
-	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package.
-	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom.
-		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE.
-		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
-	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE 2D for the current project without having to leave Atom.
-	* [language-lua](https://github.com/FireZenk/language-lua) - Lua language support in Atom.
-	* [linter-luacheck](https://github.com/AtomLinter/linter-luacheck) - Lint Lua on the fly, using luacheck.
+	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package
+	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom
+		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki
+	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE 2D for the current project without having to leave Atom
+	* [language-lua](https://github.com/FireZenk/language-lua) - Lua language support in Atom
+	* [linter-luacheck](https://github.com/AtomLinter/linter-luacheck) - Lint Lua on the fly, using luacheck
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support
 * [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for [Vim](http://www.vim.org)
@@ -274,8 +273,8 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
-* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE.
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more.
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
+* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
+* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
