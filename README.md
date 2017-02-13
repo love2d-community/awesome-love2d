@@ -1,5 +1,5 @@
 # ![Awesome Löve](logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A categorized community-driven collection of high-quality, awesome [LÖVE](https://love2d.org) libraries, projects, and resources.
+A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 
 ## Table of contents
 
@@ -191,7 +191,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 *GLSL related Libraries*
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
-* [Shadertoy viewer](https://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
+* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
 * [shine](https://github.com/vrld/shine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ## Testing
