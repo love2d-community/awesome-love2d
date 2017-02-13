@@ -125,6 +125,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](https
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 * [hump.vector](http://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
+* [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm written in Lua
 
 ## Music
 *Music related libraries*
