@@ -163,7 +163,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://vrld.github.io/HardonCollider/) - Collision detection with arbitrary polygons; allows rotation of objects
 
-##Platforms
+## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
 
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API
