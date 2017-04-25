@@ -258,14 +258,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package
-	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom
 		* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom
-		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE
-		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki
 		* [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom
 		* [language-lua](https://atom.io/packages/language-lua) - Lua language support in Atom
-		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Lua syntax error checking in Atom
 		* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE for the current project without having to leave Atom
+	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom
+		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki	
+		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Lua syntax error checking in Atom
 * [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - Add Lua syntax highlighting in Brackets
 	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Provides LÖVE code hints
