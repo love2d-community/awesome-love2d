@@ -262,6 +262,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom
 	* [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom
 	* [language-lua](https://atom.io/packages/language-lua) - Lua language support in Atom
+	* [linter-luacheck](https://github.com/AtomLinter/linter-luacheck) - Lint Lua on the fly, using luacheck
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE for the current project without having to leave Atom
 	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE
