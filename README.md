@@ -259,10 +259,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package
-		* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom
-		* [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom
-		* [language-lua](https://atom.io/packages/language-lua) - Lua language support in Atom
-		* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE for the current project without having to leave Atom
+	* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom
+	* [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom
+	* [language-lua](https://atom.io/packages/language-lua) - Lua language support in Atom
+	* [Löve Launcher](https://atom.io/packages/love-launcher) - Launch LÖVE for the current project without having to leave Atom
 	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE
 		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki	
