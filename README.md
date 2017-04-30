@@ -258,7 +258,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Integrated Development Enviroments and text editor plugins*
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
-	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package
+	* [Love-Atom](https://atom.io/packages/love-atom) - Smart autocompletion for the LÖVE framework in Atom.
 	* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom
 	* [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom
 	* [language-lua](https://atom.io/packages/language-lua) - Lua language support in Atom
