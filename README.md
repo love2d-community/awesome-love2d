@@ -116,6 +116,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Lighting
 *Lighting & Shadow Libraries*
 
+* [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model
 
 ## Math
@@ -162,6 +163,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://vrld.github.io/HardonCollider/) - Collision detection with arbitrary polygons; allows rotation of objects
+* [Windfield](https://github.com/SSYGEA/windfield) - Physics module wrapper for LÖVE
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
