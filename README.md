@@ -255,6 +255,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
 * [How to LÖVE](http://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
+* [Begginer's Guide](https://www.youtube.com/playlist?list=PLaOroApgIrVUSzJ-wvV-d3TG4BahpDB2h)- Video Tutorial Series for Beginners.
 
 ## IDEs
 *Integrated Development Enviroments and text editor plugins*
