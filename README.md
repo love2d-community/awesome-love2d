@@ -47,6 +47,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Animation
 *Animation & Frame-Managing Libraries*
 
+* [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend
 * [anim8](https://github.com/kikito/anim8) - Animation library
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
