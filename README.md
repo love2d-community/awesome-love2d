@@ -165,7 +165,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Collision Detection & Physics Wrappers*
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
-* [HC](http://hc.readthedocs.io/) - Collision detection with arbitrary polygons; allows rotation of objects
+* [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE
 
 ## Platforms
