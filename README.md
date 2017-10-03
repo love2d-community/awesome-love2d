@@ -237,6 +237,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
+* [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
