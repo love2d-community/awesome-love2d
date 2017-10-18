@@ -35,11 +35,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (design to be used with IQM and IQE)
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+* [DEEP](https://github.com/Nikaoto/DEEP) - Handles draw order by allowing you to specify Z axis when drawing.  
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
 * [IQM](https://github.com/excessive/iqm) - Inter-Quake Model loader (binary)
 * [LÖVE3D](https://github.com/excessive/love3d) - 3D extensions to LÖVE
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
-* [DEEP](https://github.com/Nikaoto/DEEP) - Handles draw order by allowing you to specify Z axis when drawing.  
+
 
 ## AI
 *Navigation, Decision-Making and AI Libraries*
