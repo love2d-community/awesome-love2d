@@ -6,6 +6,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [3D](#3d)
 * [AI](#ai)
 * [Animation](#animation)
+* [Assets](#assets)
 * [Camera](#camera)
 * [Development](#development)
 * [Drawing](#drawing)
@@ -58,6 +59,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Walt](https://github.com/davisdude/Walt) - Animation library
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
 
+## Assets
+*Asset managers*
+
+* [cargo](https://github.com/bjornbytes/cargo) - Asset manager
+* [hlp.asset](https://github.com/malyutinegor/hlp) - Async asset manager
+* [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
+* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
+
 ## Camera
 *Viewport & Camera Libraries*
 
@@ -102,6 +111,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Game specific Library bundles, that provide reuseable functions*
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games
+* [hlp](https://github.com/malyutinegor/hlp) - Helper libraries for LÖVE (Asset, Event, Locale)
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
@@ -128,6 +138,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation
+
+## Localization
+*Game localization tools*
+
+* [hlp.locale](https://github.com/malyutinegor/hlp) - Simple localization library. Can get system locale
+* [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 
 ## Math
 *Math specific Libraries*
@@ -247,14 +263,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Non-Game specific Library bundles, that provide reuseable functions*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
-* [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
-* [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
-* [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
-* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
 * [Talkback](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication
