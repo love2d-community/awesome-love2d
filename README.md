@@ -63,7 +63,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Asset managers*
 
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
-* [hlp.asset](https://github.com/malyutinegor/hlp/asset) - Async asset manager
+* [hlp.asset](https://github.com/malyutinegor/hlp/#asset) - Async asset manager
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 
@@ -142,7 +142,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Localization
 *Game localization tools*
 
-* [hlp.locale](https://github.com/malyutinegor/hlp/locale) - Simple localization library. Can get system locale
+* [hlp.locale](https://github.com/malyutinegor/hlp/#locale) - Simple localization library. Can get system locale
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 
 ## Math
