@@ -297,10 +297,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code
+	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode
 
 * [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date. 
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
+	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
 
 # Contributing
 
