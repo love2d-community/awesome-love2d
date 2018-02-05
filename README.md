@@ -148,10 +148,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Networking
 *Networking & Online-Play Libraries*
 
-* [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
-* [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet
-* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
-* [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games
+* [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)  [IPv6]
+* [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet [IPv4]
+* [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging [IPv6]
+* [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games [IPv4]
 
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
