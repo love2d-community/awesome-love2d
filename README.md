@@ -174,6 +174,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
+* [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 * [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE
 
 ## Platforms
