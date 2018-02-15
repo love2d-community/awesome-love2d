@@ -137,6 +137,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 * [hump.vector](http://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
 * [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm written in Lua
+* [brinevector](https://github.com/novemberisms/brinevector) - Standalone lightweight luajit ffi-accelerated 2D vector library for great performance
 
 ## Music
 *Music related libraries*
