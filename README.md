@@ -165,6 +165,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Networking & Online-Play Libraries*
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
+* [hlp.finder](https://github.com/malyutinegor/hlp/#finder) - Find game server in local network via UDP broadcast.
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games
 
