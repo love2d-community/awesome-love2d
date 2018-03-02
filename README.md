@@ -54,7 +54,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [anim8](https://github.com/kikito/anim8) - Animation library
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
-* [Sodapop](https://github.com/tesselode/sodapop) - Sprite and animation library
 * [Walt](https://github.com/davisdude/Walt) - Animation library
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
 
@@ -142,7 +141,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Music
 *Music related libraries*
 
-* [ripple](https://github.com/tesselode/ripple) - An audio library for sound effects and music
 * [wave](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities
 * [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library
 
