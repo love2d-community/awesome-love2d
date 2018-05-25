@@ -39,7 +39,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [IQM](https://github.com/excessive/iqm) - Inter-Quake Model loader (binary)
 * [LÖVE3D](https://github.com/excessive/love3d) - 3D extensions to LÖVE
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
-* [Brinevector3D](http://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z)
+* [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z)
 
 
 ## AI
@@ -53,6 +53,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend
 * [anim8](https://github.com/kikito/anim8) - Animation library
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
+* [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
 * [Walt](https://github.com/davisdude/Walt) - Animation library
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
@@ -89,6 +90,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [renderplanet](https://github.com/meric/renderplanet/) - realistic orthographic planet rendering
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE
+* [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls
 
 ## Entity
@@ -264,6 +266,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
+* [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
