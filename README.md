@@ -264,7 +264,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
-* [Talkback](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
 
 ## Tutorials
