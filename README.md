@@ -75,6 +75,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
+* [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only)
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
