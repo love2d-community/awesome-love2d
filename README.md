@@ -258,6 +258,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
 
+* [Ini Parser](https://github.com/FivosM/ini_parser) - Easy to use ini parser
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
