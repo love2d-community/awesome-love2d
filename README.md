@@ -270,9 +270,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
+* [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
-* [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 
 ## Tutorials
 *Blogs and tutorials*
