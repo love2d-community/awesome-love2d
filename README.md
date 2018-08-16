@@ -149,6 +149,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [denver](https://github.com/superzazu/denver.lua) - A Löve custom waveform generation library
 * [lovebpm](https://github.com/rxi/lovebpm) - A LÖVE library for syncing events to the BPM of an audio track 
+* [ripple](https://github.com/tesselode/ripple) - An audio manager with tagging support
 * [wave](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities
 
 ## Networking
