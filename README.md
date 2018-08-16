@@ -258,12 +258,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Utilities
 *Non-Game specific Library bundles, that provide reuseable functions*
 
-* [Ini Parser](https://github.com/FivosM/ini_parser) - Easy to use ini parser
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
+* [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
