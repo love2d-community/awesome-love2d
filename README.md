@@ -65,7 +65,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid
 * [gamera](https://github.com/kikito/gamera) - Camera system
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
-* [STALKER-X](https://github.com/SSYGEN/STALKER-X) - STALKER-X is a camera module for LÖVE
+* [STALKER-X](https://github.com/adnzzzzZ/STALKER-X) - STALKER-X is a camera module for LÖVE
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
@@ -122,7 +122,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Input & Binding Libraries*
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls
-* [boipushy](https://github.com/SSYGEN/boipushy) - A simple and easy to use input handler
+* [boipushy](https://github.com/adnzzzzZ/boipushy) - A simple and easy to use input handler
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
 
@@ -183,7 +183,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
-* [Windfield](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE
+* [Windfield](https://github.com/adnzzzzZ/windfield) - Physics module wrapper for LÖVE
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -276,7 +276,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [SSYGEN's](https://github.com/SSYGEN/blog) - A blog by [SSYGEN](https://github.com/SSYGEN) with articles about game development using LÖVE
+* [adnzzzzZ's](https://github.com/adnzzzzZ/blog) - A blog by [adnzzzzZ](https://github.com/adnzzzzZ) with articles about game development using LÖVE
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
