@@ -255,7 +255,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 
 ## Utilities
-*Non-Game specific Library bundles, that provide reuseable functions*
+*Non-Game specific Library bundles, that provide reusable functions*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
@@ -285,7 +285,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Introduction to Game Development](https://cs50.github.io/games/) - Harvard College’s CS50 extension (Spring 2018)
 
 ## IDEs
-*Integrated Development Enviroments and text editor plugins*
+*Integrated Development Environments and text editor plugins*
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 	* [Love-Atom](https://atom.io/packages/love-atom) - Smart autocompletion for the LÖVE framework in Atom.
