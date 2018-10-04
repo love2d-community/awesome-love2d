@@ -256,7 +256,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 
 ## Utilities
-*Non-Game specific Library bundles, that provide reusable functions*
+*Non-Game specific Library bundles, that provide reuseable functions*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
