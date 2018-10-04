@@ -256,12 +256,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 
 ## Utilities
-*Non-Game specific Library bundles, that provide reusable functions*
+*Non-Game specific libraries and tools*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [Classic](https://github.com/rxi/classic) - A tiny class module for Lua
+* [Flirt](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser
