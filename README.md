@@ -46,6 +46,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Navigation, Decision-Making and AI Libraries*
 
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
+* [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding
 
 ## Animation
 *Animation & Frame-Managing Libraries*
