@@ -186,6 +186,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 * [Windfield](https://github.com/adnzzzzZ/windfield) - Physics module wrapper for LÖVE
+* [breezefield](https://github.com/HDictus/breezefield) - A lightweight and easy love.physics wrapper \[windfield alternative\]
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
