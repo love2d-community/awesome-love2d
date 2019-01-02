@@ -36,7 +36,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (design to be used with IQM and IQE)
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
-* [IQM](https://github.com/excessive/iqm) - Inter-Quake Model loader (binary)
+* [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
 * [LÖVE3D](https://github.com/excessive/love3d) - 3D extensions to LÖVE
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 * [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z)
@@ -86,7 +86,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
-* [Möan.lua](https://github.com/ttxi/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
 * [renderplanet](https://github.com/meric/renderplanet/) - realistic orthographic planet rendering
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE
@@ -182,10 +181,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Physics
 *Collision Detection & Physics Wrappers*
 
+* [breezefield](https://github.com/HDictus/breezefield) - A lightweight and easy love.physics wrapper \[windfield alternative\]
 * [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 * [Windfield](https://github.com/adnzzzzZ/windfield) - Physics module wrapper for LÖVE
+
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -285,7 +286,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
 * [How to LÖVE](http://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
-* [Introduction to Game Development](https://cs50.github.io/games/) - Harvard College’s CS50 extension (Spring 2018)
+* [Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard College’s CS50 extension (Spring 2018)
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
