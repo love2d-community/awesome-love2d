@@ -97,6 +97,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Entity and Gameobject Managing Libraries*
 
 * [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System
+* [Concord](https://github.com/Tjakka5/Concord) - A feature-complete ECS library
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS
 * [nata](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
