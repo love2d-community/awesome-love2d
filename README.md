@@ -3,32 +3,36 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Table of contents
 
-* [3D](#3d)
-* [AI](#ai)
-* [Animation](#animation)
-* [Camera](#camera)
-* [Development](#development)
-* [Drawing](#drawing)
-* [Entity](#entity)
-* [Helper Libraries](#helper)
-* [Input](#input)
-* [Lighting](#lighting)
-* [Math](#math)
-* [Music](#music)
-* [Networking](#networking)
-* [Object Orientation](#object)
-* [Performance](#performance)
-* [Physics](#physics)
-* [Platforms](#platforms)
-* [Publishing](#publishing)
-* [Serialization](#serialization)
-* [Shaders](#shaders)
-* [Testing](#testing)
-* [Tweening](#tweening)
-* [UI](#ui)
-* [Utilities](#utilities)
-* [Tutorials](#tutorials)
-* [IDEs](#ides)
+- [!Awesome Löve ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-l%C3%B6ve-awesomehttpsgithubcomsindresorhusawesome)
+	- [Table of contents](#table-of-contents)
+	- [3D](#3d)
+	- [AI](#ai)
+	- [Animation](#animation)
+	- [Camera](#camera)
+	- [Development](#development)
+	- [Drawing](#drawing)
+	- [Entity](#entity)
+	- [<a name="helper"></a>Helper Libraries](#a-name%22helper%22ahelper-libraries)
+	- [Input](#input)
+	- [Lighting](#lighting)
+	- [Math](#math)
+	- [Music](#music)
+	- [Networking](#networking)
+	- [<a name="object"></a>Object Orientation](#a-name%22object%22aobject-orientation)
+	- [Performance](#performance)
+	- [Physics](#physics)
+	- [Platforms](#platforms)
+	- [Publishing](#publishing)
+	- [Serialization](#serialization)
+	- [Shaders](#shaders)
+	- [Testing](#testing)
+	- [Tweening](#tweening)
+	- [UI](#ui)
+	- [Utilities](#utilities)
+	- [Tutorials](#tutorials)
+	- [IDEs](#ides)
+- [Contributing](#contributing)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## 3D
 *3D-centric Libraries*
@@ -318,6 +322,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free source code editor and Notepad replacement that supports several languages
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle
+	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua/) - Lua IDE/Debugger Plugin for VSCode
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode
 
