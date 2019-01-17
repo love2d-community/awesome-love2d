@@ -3,32 +3,36 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Table of contents
 
-* [3D](#3d)
-* [AI](#ai)
-* [Animation](#animation)
-* [Camera](#camera)
-* [Development](#development)
-* [Drawing](#drawing)
-* [Entity](#entity)
-* [Helper Libraries](#helper)
-* [Input](#input)
-* [Lighting](#lighting)
-* [Math](#math)
-* [Music](#music)
-* [Networking](#networking)
-* [Object Orientation](#object)
-* [Performance](#performance)
-* [Physics](#physics)
-* [Platforms](#platforms)
-* [Publishing](#publishing)
-* [Serialization](#serialization)
-* [Shaders](#shaders)
-* [Testing](#testing)
-* [Tweening](#tweening)
-* [UI](#ui)
-* [Utilities](#utilities)
-* [Tutorials](#tutorials)
-* [IDEs](#ides)
+- [!Awesome Löve ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-l%C3%B6ve-awesomehttpsgithubcomsindresorhusawesome)
+	- [Table of contents](#table-of-contents)
+	- [3D](#3d)
+	- [AI](#ai)
+	- [Animation](#animation)
+	- [Camera](#camera)
+	- [Development](#development)
+	- [Drawing](#drawing)
+	- [Entity](#entity)
+	- [<a name="helper"></a>Helper Libraries](#a-name%22helper%22ahelper-libraries)
+	- [Input](#input)
+	- [Lighting](#lighting)
+	- [Math](#math)
+	- [Music](#music)
+	- [Networking](#networking)
+	- [<a name="object"></a>Object Orientation](#a-name%22object%22aobject-orientation)
+	- [Performance](#performance)
+	- [Physics](#physics)
+	- [Platforms](#platforms)
+	- [Publishing](#publishing)
+	- [Serialization](#serialization)
+	- [Shaders](#shaders)
+	- [Testing](#testing)
+	- [Tweening](#tweening)
+	- [UI](#ui)
+	- [Utilities](#utilities)
+	- [Tutorials](#tutorials)
+	- [IDEs](#ides)
+- [Contributing](#contributing)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## 3D
 *3D-centric Libraries*
@@ -311,6 +315,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio is a lightweight Lua IDE with code completion, syntax highlighting, live coding, code analyzer, and debugging support
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - Script to add LOVE API syntax highlighting to ZBS.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic Java IDE
+	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode
 	* [Lua for IDEA](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home) - Lua plugin for IntelliJ-IDEA
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for IntelliJ-IDEA
 * [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient
