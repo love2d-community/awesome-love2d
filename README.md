@@ -276,7 +276,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
-* [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the [Steamworks API](https://partner.steamgames.com/doc/sdk/api)
+* [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
