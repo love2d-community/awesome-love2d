@@ -123,10 +123,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Input
 *Input & Binding Libraries*
 
-* [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls
-* [boipushy](https://github.com/adnzzzzZ/boipushy) - A simple and easy to use input handler
+* [baton](https://github.com/tesselode/baton) -  Action-based input library that handles multiple players, gamepads, and modes (menu vs walking vs driving)
+* [boipushy](https://github.com/adnzzzzZ/boipushy) - Action-based input library supporting action callbacks and queries, key repeating, and binding sequences of input to actions
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
-* [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
+* [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library (predecessor to baton)
 
 ## Lighting
 *Lighting & Shadow Libraries*
