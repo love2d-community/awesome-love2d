@@ -52,6 +52,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Animation & Frame-Managing Libraries*
 
 * [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend
+* [Anima](https://github.com/YoungNeer/lovelib/tree/master/Anima) - Keyframe animation library for all sorts of animations
 * [anim8](https://github.com/kikito/anim8) - Animation library
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
 * [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE
@@ -108,7 +109,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
+* [itable](https://github.com/YoungNeer/lovelib/tree/master/itable) - Extra table functionality such as merge,subset,etc so that you dont reinvent the wheel
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
+* [lovecc](https://github.com/YoungNeer/lovelib/tree/master/lovecc) - A very useful color palette manager
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
