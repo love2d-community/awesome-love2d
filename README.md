@@ -280,6 +280,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
+* [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - uses accelerometer data for shake device detection written in Lua
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
 
 ## Tutorials
