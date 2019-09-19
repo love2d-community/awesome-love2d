@@ -137,6 +137,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for löve
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation
+* [Light](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation
 
 ## Math
 *Math specific Libraries*
