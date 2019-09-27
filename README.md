@@ -109,7 +109,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [astray](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
+* [clove](https://github.com/YoungNeer/clove) - A helper library which allows you to quickly loads huge amount of assets
 * [hump](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras). Repo is inactive but improvements are in the works at [this fork](https://github.com/HDictus/hump/tree/temp-master) (branch temp-master)
+* [iffy](https://github.com/YoungNeer/iffy) - A SpriteSheet and Tileset helper library for LÖVE
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 * [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
