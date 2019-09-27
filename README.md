@@ -10,7 +10,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Development](#development)
 * [Drawing](#drawing)
 * [Entity](#entity)
-* [Helper Libraries](#helper)
+* [Helper Libraries](#helper-libraries)
 * [Input](#input)
 * [Lighting](#lighting)
 * [Math](#math)
