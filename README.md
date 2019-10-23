@@ -258,7 +258,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE
-* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
+* [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games
 * [Patchy](https://github.com/excessive/patchy) - 9patch library
@@ -286,6 +286,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
+* [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - uses accelerometer data for shake device detection written in Lua
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
@@ -299,8 +300,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
 * [How to LÖVE](http://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
-* [CS50’s
-Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard College’s CS50 OpenCourseWare
+* [Introduction to Game Development](https://cs50.harvard.edu/extension/web/2019/spring/) - Harvard College’s CS50 extension (Spring 2018)
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
