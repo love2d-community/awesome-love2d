@@ -118,6 +118,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
+* [reflowprint](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time
 * [roomy](https://github.com/tesselode/roomy) - screen management library for LÖVE
 * [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework
