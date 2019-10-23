@@ -286,6 +286,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
+* [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - uses accelerometer data for shake device detection written in Lua
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
