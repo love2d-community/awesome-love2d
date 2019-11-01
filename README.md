@@ -94,6 +94,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE
 * [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls
+* [center](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
