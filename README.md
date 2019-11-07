@@ -278,6 +278,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [colorchanger](https://github.com/santoslove/colorchanger) - Change the colors in your LÖVE game
 * [Flirt](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
+* [hex2color](https://github.com/S-Walrus/hex2color/) - A single function to use HEX color values
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
