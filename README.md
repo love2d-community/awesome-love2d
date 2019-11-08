@@ -279,6 +279,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [colorchanger](https://github.com/santoslove/colorchanger) - Change the colors in your LÖVE game
 * [Flirt](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
+* [hex2color](https://github.com/S-Walrus/hex2color/) - A single function to use HEX color values
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
@@ -331,7 +332,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for IntelliJ-IDEA
 * [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient
 	* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim
-* [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free source code editor and Notepad replacement that supports several languages
+* [Notepad++](https://notepad-plus-plus.org) - Notepad++ is a free source code editor and Notepad replacement that supports several languages
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code
