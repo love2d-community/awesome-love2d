@@ -268,6 +268,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
+* [BoxUI](https://github.com/monolifed/boxui) - Similar to loveframes but with less features.
+* [TextView](https://github.com/monolifed/love2d_textview) - text formatter/viewer for love2d with inline image support
 
 ## Utilities
 *Non-Game specific libraries and tools*
