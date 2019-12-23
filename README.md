@@ -33,13 +33,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## 3D
 *3D-centric Libraries*
 
+* [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 * [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (design to be used with IQM and IQE)
+* [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z)
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
-* [LÖVE3D](https://github.com/excessive/love3d) - 3D extensions to LÖVE
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
-* [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z)
+* [ss3d](https://github.com/groverburger/ss3d) - a simple and easy 3d engine for love2d
 
 
 ## AI
