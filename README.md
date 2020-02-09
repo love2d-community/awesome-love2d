@@ -39,6 +39,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
+* [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer; Supports skeletal animations and morph targets 
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 * [ss3d](https://github.com/groverburger/ss3d) - a simple and easy 3d engine for love2d
 
@@ -262,6 +263,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE
+* [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games
@@ -291,6 +293,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
+* [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux 
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
