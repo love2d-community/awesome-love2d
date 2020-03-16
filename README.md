@@ -10,6 +10,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Development](#development)
 * [Drawing](#drawing)
 * [Entity](#entity)
+* [Game State Management](#game-state-management)
 * [Helper Libraries](#helper-libraries)
 * [Input](#input)
 * [Lighting](#lighting)
@@ -107,6 +108,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS
 * [nata](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
+
+## Game State Management
+*Libraries and modules that perform tasks that relate to gamestate management.*
+
+* [Yonder](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D
 
 ## <a name="helper"></a>Helper Libraries
 *Game specific Library bundles, that provide reuseable functions*
