@@ -312,6 +312,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)
 * [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up
 * [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard College’s CS50 OpenCourseWare
+* [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging LÖVE games for the web
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
