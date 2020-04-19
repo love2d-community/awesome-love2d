@@ -210,7 +210,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
-* [LovePotion](https://github.com/videah/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for 3DS Homebrew
+* [LovePotion](https://github.com/TurtleP/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for Nintendo 3DS and Nintendo Switch Homebrew
 * [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices
 
