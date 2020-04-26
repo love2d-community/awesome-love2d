@@ -81,6 +81,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
+* [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for
+  automated cross-platform builds
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript
 * [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only)
 * [boon](https://github.com/camchenry/boon) - A cross-platform build tool for LÖVE
