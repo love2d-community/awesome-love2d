@@ -132,6 +132,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library
+* [Yonder](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D
 
 ## Input
 *Input & Binding Libraries*
