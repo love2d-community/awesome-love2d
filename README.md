@@ -231,6 +231,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script
 * [Lady](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
+* [moonblob](https://github.com/megagrump/moonblob) - Binary serialization and data parsing library
 * [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
 * [Smallfolk](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
 * [trickle](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking
