@@ -189,6 +189,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+* [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation
 
 ## Performance
 *Performance measurement tools*
