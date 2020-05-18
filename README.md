@@ -278,6 +278,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Patchy](https://github.com/excessive/patchy) - 9patch library
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
+* [Slab](https://github.com/coding-jackalope/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 
