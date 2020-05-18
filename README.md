@@ -287,7 +287,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
-* [Classic](https://github.com/rxi/classic) - A tiny class module for Lua
 * [colorchanger](https://github.com/santoslove/colorchanger) - Change the colors in your LÖVE game
 * [Flirt](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine
 * [GifCat](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
