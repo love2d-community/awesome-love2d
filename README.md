@@ -143,6 +143,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [boipushy](https://github.com/adnzzzzZ/boipushy) - A simple and easy to use input handler
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
+* [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you
 
 ## Lighting
 *Lighting & Shadow Libraries*
