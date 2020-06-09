@@ -3,32 +3,36 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Table of contents
 
-* [3D](#3d)
-* [AI](#ai)
-* [Animation](#animation)
-* [Camera](#camera)
-* [Development](#development)
-* [Drawing](#drawing)
-* [Entity](#entity)
-* [Helper Libraries](#helper-libraries)
-* [Input](#input)
-* [Lighting](#lighting)
-* [Math](#math)
-* [Music](#music)
-* [Networking](#networking)
-* [Object Orientation](#object)
-* [Performance](#performance)
-* [Physics](#physics)
-* [Platforms](#platforms)
-* [Publishing](#publishing)
-* [Serialization](#serialization)
-* [Shaders](#shaders)
-* [Testing](#testing)
-* [Tweening](#tweening)
-* [UI](#ui)
-* [Utilities](#utilities)
-* [Tutorials](#tutorials)
-* [IDEs](#ides)
+- [!Awesome Löve [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)](#img-srclogopng-altawesome-löve-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+	- [Table of contents](#table-of-contents)
+	- [3D](#3d)
+	- [AI](#ai)
+	- [Animation](#animation)
+	- [Camera](#camera)
+	- [Development](#development)
+	- [Drawing](#drawing)
+	- [Entity](#entity)
+	- [<a name="helper"></a>Helper Libraries](#helper-libraries)
+	- [Input](#input)
+	- [Lighting](#lighting)
+	- [Math](#math)
+	- [Music](#music)
+	- [Networking](#networking)
+	- [<a name="object"></a>Object Orientation](#object-orientation)
+	- [Performance](#performance)
+	- [Physics](#physics)
+	- [Platforms](#platforms)
+	- [Publishing](#publishing)
+	- [Serialization](#serialization)
+	- [Shaders](#shaders)
+	- [Testing](#testing)
+	- [Tweening](#tweening)
+	- [UI](#ui)
+	- [Utilities](#utilities)
+	- [Tutorials](#tutorials)
+	- [IDEs](#ides)
+- [Contributing](#contributing)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## 3D
 *3D-centric Libraries*
@@ -353,6 +357,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode
+	* [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. Löve specific launch.json example provided.
 
 * [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
