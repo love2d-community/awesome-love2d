@@ -90,20 +90,21 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
 
-* [cindy](https://github.com/megagrump/cindy) - Use byte color values in LÖVE 11+
-* [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
+* [center](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size
+* [cindy](https://github.com/megagrump/cindy) - Use byte color values in LÖVE 11+
+* [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls
+* [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
 * [Push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE
-* [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders
 * [renderplanet](https://github.com/meric/renderplanet/) - realistic orthographic planet rendering
-* [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE
+* [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders
+* [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
-* [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls
-* [center](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size
+
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
