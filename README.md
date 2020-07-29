@@ -90,6 +90,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
 
+* [turtle](https://github.com/arthurealike/turtle.lua) - A Turtle graphics module for love2d-lua
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 * [center](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size
