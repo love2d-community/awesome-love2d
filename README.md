@@ -287,6 +287,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
 * [YALG](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
+* [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 
 ## Utilities
 *Non-Game specific libraries and tools*
