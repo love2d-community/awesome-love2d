@@ -104,7 +104,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders
 * [Sölar](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
-
+* [turtle.lua](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
