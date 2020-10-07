@@ -42,6 +42,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer; Supports skeletal animations and morph targets 
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 * [ss3d](https://github.com/groverburger/ss3d) - a simple and easy 3d engine for love2d
+* [model_renderer](https://github.com/xiejiangzhi/model_renderer) - a simple 3d model renderer for love2d
 
 
 ## AI
