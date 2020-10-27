@@ -225,6 +225,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LovePotion](https://github.com/TurtleP/LovePotion) - Unofficial work-in-progress implementation of the LÖVE API for Nintendo 3DS and Nintendo Switch Homebrew
 * [Love.js](https://github.com/TannerRogalsky/love.js) - LÖVE ported to the web using Emscripten
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices
+* [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple LOVE2D wrapper for OneLua, lpp-vita, and Lua Player PS3
 
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
