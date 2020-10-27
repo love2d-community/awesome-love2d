@@ -227,7 +227,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices
 
-
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
 
