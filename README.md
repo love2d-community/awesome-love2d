@@ -148,6 +148,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls
 * [boipushy](https://github.com/adnzzzzZ/boipushy) - A simple and easy to use input handler
+* [input](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
 * [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
