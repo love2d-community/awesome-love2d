@@ -43,7 +43,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer; Supports skeletal animations and morph targets 
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
-* [ss3d](https://github.com/groverburger/ss3d) - a simple and easy 3d engine for love2d
+* [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 * [model_renderer](https://github.com/xiejiangzhi/model_renderer) - a simple 3d model renderer for love2d
 
 
