@@ -65,6 +65,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
 * [Walt](https://github.com/davisdude/Walt) - Animation library
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
+* [lovanim](https://github.com/patrixr/love-animation) - A minimal stateful animation library
 
 ## Camera
 *Viewport & Camera Libraries*
