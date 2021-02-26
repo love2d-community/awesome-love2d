@@ -87,8 +87,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
 * [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript
-* [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only)
-* [boon](https://github.com/camchenry/boon) - A cross-platform build tool for LÖVE
 * [lovelier](https://github.com/patrixr/lovelier) - A Love2D live reloader with Moonscript support
 
 ## Drawing
