@@ -31,6 +31,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Utilities](#utilities)
 * [Tutorials](#tutorials)
 * [IDEs](#ides)
+* [Game Distribution Tools](#game-distribution)
 
 ## 3D
 *3D-centric Libraries*
@@ -41,7 +42,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text)
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
-* [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer; Supports skeletal animations and morph targets 
+* [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer; Supports skeletal animations and morph targets
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 * [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 * [model_renderer](https://github.com/xiejiangzhi/model_renderer) - a simple 3d model renderer for love2d
@@ -66,6 +67,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Walt](https://github.com/davisdude/Walt) - Animation library
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
 * [lovanim](https://github.com/patrixr/love-animation) - A minimal stateful animation library
+* [SYSL-Text](https://github.com/SystemLogoff/SYSL-Text) - Text animation and automatic wrapping library based on tags
 
 ## Camera
 *Viewport & Camera Libraries*
@@ -87,8 +89,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
 * [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript
-* [MakeLove](https://github.com/instilledbee/MakeLove) - Automated build creation for your projects, by monitoring changes in real-time (Windows Only)
-* [boon](https://github.com/camchenry/boon) - A cross-platform build tool for LÖVE
 * [lovelier](https://github.com/patrixr/lovelier) - A Love2D live reloader with Moonscript support
 
 ## Drawing
@@ -316,7 +316,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
-* [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux 
+* [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux
 * [nativefs](https://github.com/megagrump/nativefs) - Read and write files outside of LÖVE's allowed paths
 * [Optikon](https://optikon.co.uk/) - WYSIWYG visual level designer
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
@@ -373,6 +373,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
+
+## Game Distribution Tools <a id="game-distribution"></a>
+*Tools that automate game publishing in one way or another*
+* [boon](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+* [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, MacOS, and Linux.
+* [love-release](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
+* [makelove](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 
 # Contributing
 
