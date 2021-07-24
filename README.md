@@ -241,6 +241,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Serialization
 *Save Game & Storage Libraries*
 
+* [arson](https://github.com/flamendless/arson.lua) - companion library for registering custom data types that can be encoded and decoded by json.lua 
 * [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer
 * [bitser](https://github.com/gvx/bitser) - Serializes and deserializes Lua values with LuaJIT
 * [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
