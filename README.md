@@ -256,6 +256,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *GLSL related Libraries*
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
+* [ngrading](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
 * [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
@@ -289,6 +290,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games
+* [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 * [Patchy](https://github.com/excessive/patchy) - 9patch library
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
