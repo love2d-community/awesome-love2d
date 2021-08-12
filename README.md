@@ -152,6 +152,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
 * [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library
+* [CursorFunctions](https://github.com/Ballance100/Love2D-CursorFunctions) - Allows you to easily add button like objects as well as JoyCon Cursor Support
 
 ## Lighting
 *Lighting & Shadow Libraries*
