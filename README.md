@@ -328,6 +328,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Optikon](https://optikon.co.uk/) - WYSIWYG visual level designer
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor
+* [require.lua](https://github.com/premek/require.lua) - Require all files in a folder
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - uses accelerometer data for shake device detection written in Lua
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
