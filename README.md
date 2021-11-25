@@ -109,6 +109,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE
 * [Runtime-TextureAtlas](https://github.com/EngineerSmith/Runtime-TextureAtlas) - Texture atlas packer and renderer at runtime; no external tools
+* [Export-TextureAtlas](https://github.com/EngineerSmith/Export-TextureAtlas)- Extends Runtime-TextureAtlas as a commandline tool to export an atlas
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
