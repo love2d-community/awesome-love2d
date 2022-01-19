@@ -31,7 +31,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Utilities](#utilities)
 * [Tutorials](#tutorials)
 * [IDEs](#ides)
-* [Game Distribution Tools](#game-distribution)
+* [Distribution](#distribution)
 
 ## 3D
 *3D-centric Libraries*
@@ -383,7 +383,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
 
-## Game Distribution Tools <a id="game-distribution"></a>
+## Distribution
 *Tools that automate game publishing in one way or another*
 * [boon](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
 * [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
