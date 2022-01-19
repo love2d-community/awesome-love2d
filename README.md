@@ -18,7 +18,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Math](#math)
 * [Music](#music)
 * [Networking](#networking)
-* [Object Orientation](#object)
+* [OO](#oo)
 * [Performance](#performance)
 * [Physics](#physics)
 * [Platforms](#platforms)
@@ -195,7 +195,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [löve-ws](https://github.com/holywyvern/love-ws) - A websocket client and server library.
 * [love2d-lua-websocket](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven websocket client library. (IPv4)
 
-## <a name="object"></a>Object Orientation
+## OO
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
 * [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins.
@@ -343,13 +343,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
 * [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
-* [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard College's CS50 OpenCourseWare.
+* [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
 * [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging LÖVE games for the web.
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
 
-* [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century (obsolete).
 	* [Love-Atom](https://atom.io/packages/love-atom) - Smart autocompletion for the LÖVE framework in Atom.
 	* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom.
 	* [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom.
@@ -360,7 +360,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - Auto-complete and snippets for LÖVE.
 		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Lua syntax error checking in Atom.
-* [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe.
+* [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe (obsolete).
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - Add Lua syntax highlighting in Brackets.
 	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Provides LÖVE code hints.
 	* [Run LÖVE](https://github.com/instilledbee/run-love2d) - Run LÖVE projects with a hotkey.
