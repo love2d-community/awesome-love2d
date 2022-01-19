@@ -33,7 +33,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [IDEs](#ides)
 * [Distribution](#distribution)
 * [Related](#related)
-* [Contributing](#contributing)
 
 ## 3D
 *3D-centric Libraries*
@@ -400,7 +399,3 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more.
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-
-## Contributing
-
-Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) for details.
