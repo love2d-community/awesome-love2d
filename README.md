@@ -154,6 +154,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [input](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE.
 * [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you.
+* [Swipe](https://github.com/zombrodo/swipe) - A simple radial keyboard library.
 * [tactile](https://github.com/tesselode/tactile) - A straightforward and flexible input library.
 
 ## Lighting
@@ -291,19 +292,20 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
+* [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+* [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
 * [Love Imgui](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
+* [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 * [Patchy](https://github.com/excessive/patchy) - 9patch library.
+* [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE.
 * [Slab](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
-* [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
-* [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [YALG](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
-* [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 
 ## Utilities
 *Non-Game specific libraries and tools*
