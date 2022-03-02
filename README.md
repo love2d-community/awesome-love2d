@@ -150,7 +150,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Input & Binding Libraries*
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls.
-* [boipushy](https://github.com/adnzzzzZ/boipushy) - A simple and easy to use input handler.
 * [input](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE.
 * [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) - A simple input handeling library that keeps track of things for you.
@@ -224,7 +223,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects.
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 * [Strike](https://github.com/Aweptimum/Strike) - 2D collision detection library. Extendable, based on Separating-Axis-Theorem.
-* [Windfield](https://github.com/adnzzzzZ/windfield) - Physics module wrapper for LÖVE.
 
 
 ## Platforms
@@ -340,7 +338,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [adnzzzzZ's](https://github.com/adnzzzzZ/blog) - A blog by [adnzzzzZ](https://github.com/adnzzzzZ) with articles about game development using LÖVE.
 * [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
