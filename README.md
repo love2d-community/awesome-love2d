@@ -62,6 +62,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [andross](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
 * [anim8](https://github.com/kikito/anim8) - Animation library.
 * [animx](https://github.com/YoungNeer/animx) - A featureful Animation library for loading animations from XML files!.
+* [Aseprite loader](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com).
 * [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE.
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system.
