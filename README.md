@@ -346,6 +346,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
 * [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
 * [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging LÖVE games for the web.
+* [BYTEPATH Tutorial](https://github.com/a327ex/blog/issues/30) - Learn to make the Steam released game [Bytepath](https://store.steampowered.com/app/760330/BYTEPATH/), made with LÖVE2D. Written by [
+a327ex](https://github.com/a327ex), it reads more like a book than a blog, and provides excellent prompts for readers to learn through doing.
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
