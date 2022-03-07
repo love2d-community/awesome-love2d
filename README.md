@@ -386,6 +386,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Distribution
 *Tools that automate game publishing in one way or another*
+* [love-packager](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 * [boon](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
 * [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
 * [love-release](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
