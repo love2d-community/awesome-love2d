@@ -101,6 +101,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [cindy](https://github.com/megagrump/cindy) - Use byte color values in LÖVE 11+.
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes.
+* [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to [deep](https://github.com/Nikaoto/deep), but you can set a custom sorting method and create multiple, nestable instances.
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL).
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE.
 * [Push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE.
