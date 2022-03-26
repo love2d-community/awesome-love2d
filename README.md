@@ -213,6 +213,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Performance
 *Performance measurement tools*
 
+* [AppleCake](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 * [jprof](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
 * [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
 * [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua is a small, non-intrusive module for finding bottlenecks in your Lua code.
