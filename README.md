@@ -98,7 +98,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE.
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches.
 * [center](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size.
-* [cindy](https://github.com/megagrump/cindy) - Use byte color values in LÖVE 11+.
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes.
 * [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
@@ -216,7 +215,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [AppleCake](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 * [jprof](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
 * [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
-* [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua is a small, non-intrusive module for finding bottlenecks in your Lua code.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - A simple lua profiler that works with LuaJIT and prints a pretty report file in columns.
 
 ## Physics
@@ -330,7 +328,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API.
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming.
 * [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux.
-* [nativefs](https://github.com/megagrump/nativefs) - Read and write files outside of LÖVE's allowed paths.
+* [nativefs](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
 * [Optikon](https://optikon.co.uk/) - WYSIWYG visual level designer.
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor.
@@ -372,7 +370,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - Script to add LOVE API syntax highlighting to ZBS.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic Java IDE.
 	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode.
-	* [Lua for IDEA](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home) - Lua plugin for IntelliJ-IDEA.
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for IntelliJ-IDEA.
 * [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.
 	* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim.
