@@ -300,6 +300,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 * [Patchy](https://github.com/excessive/patchy) - 9patch library.
+* [Slicy](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE.
