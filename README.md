@@ -75,6 +75,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Viewport & Camera Libraries*
 
 * [Brady](https://github.com/davisdude/Brady) - Camera library with parallax scrolling.
+* [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid.
 * [gamera](https://github.com/kikito/gamera) - Camera system.
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation.
