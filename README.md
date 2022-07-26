@@ -290,6 +290,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *User Interface Libraries*
 
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
+* [cimgui-love](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 * [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
