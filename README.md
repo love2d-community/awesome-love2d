@@ -19,6 +19,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Music](#music)
 * [Networking](#networking)
 * [OO](#oo)
+* [Package managers](#package-managers)
 * [Performance](#performance)
 * [Physics](#physics)
 * [Platforms](#platforms)
@@ -210,6 +211,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
 * [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
 * [selene](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
+
+## Package managers
+*Tools to manage your dependencies*
+
+- [crush](https://git.doublefourteen.io/lua/crush) - A git-based package manager
+- [loverocks](https://github.com/Alloyed/loverocks) - A luarocks-based package manager
 
 ## Performance
 *Performance measurement tools*
