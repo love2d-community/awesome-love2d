@@ -93,6 +93,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds.
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript.
 * [lovelier](https://github.com/patrixr/lovelier) - A LÖVE live reloader with Moonscript support.
+* [loveprofiler](https://github.com/dknight/loveprofiler) - LoveProfiler is an extremely simple logger and profiler.
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
