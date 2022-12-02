@@ -139,6 +139,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules.
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine.
+* [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua Finite State Machine.
 * [lue](https://github.com/Ulydev/lue) - Lue is a LÖVE library that allows you to display hue color effects in your game.
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
 * [narrator](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation.
