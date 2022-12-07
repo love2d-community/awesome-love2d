@@ -313,6 +313,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Slab](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
 * [YALG](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
+* [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
 
 ## Utilities
 *Non-Game specific libraries and tools*
