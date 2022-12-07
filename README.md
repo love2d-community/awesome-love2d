@@ -108,6 +108,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE.
 * [Push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE.
 * [renderplanet](https://github.com/meric/renderplanet/) - Realistic orthographic planet rendering.
+* [Resolution Solution](https://github.com/Vovkiv/resolution_solution) - Scale library, that help you add resolution support to your games!
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE.
 * [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
 * [Sölar](https://github.com/JanWerder/soelar) - A fairly simple solar system simulator.
