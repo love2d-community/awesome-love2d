@@ -290,7 +290,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Flux](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua.
 * [hump.timer](https://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods.
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
-* [NAniTe](https://github.com/MikuAuahDark/NPad93#nanite) - Timeline-based animation system that supports forward and backward update.
+* [NAniTe](https://github.com/MikuAuahDark/NPad93/blob/master/nanite.lua) - Timeline-based animation system that supports forward and backward update.
 * [tick](https://github.com/rxi/tick) - Lua module for delaying function calls.
 * [tween.lua](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method.
 
