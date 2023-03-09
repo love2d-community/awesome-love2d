@@ -95,6 +95,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript.
 * [lovelier](https://github.com/patrixr/lovelier) - A LÖVE live reloader with Moonscript support.
 * [loveprofiler](https://github.com/dknight/loveprofiler) - LoveProfiler is an extremely simple logger and profiler.
+* [vudu](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
