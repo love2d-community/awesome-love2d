@@ -147,6 +147,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua Finite State Machine.
 * [lue](https://github.com/Ulydev/lue) - Lue is a LÖVE library that allows you to display hue color effects in your game.
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
+* [Manami](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
 * [narrator](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation.
 * [reflowprint](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time.
 * [roomy](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
