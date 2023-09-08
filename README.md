@@ -164,6 +164,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Input & Binding Libraries*
 
 * [baton](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls.
+* [GamepadGuesser](https://github.com/idbrii/love-gamepadguesser) - Get the right button icons for gamepads; load updated gamepad db.
 * [input](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 * [Kazari](https://github.com/MikuAuahDark/Kazari) - Multitouch gesture and input library.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE.
