@@ -82,6 +82,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid.
 * [gamera](https://github.com/kikito/gamera) - Camera system.
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation.
+* [parallax](https://github.com/idbrii/love-parallax) - Parallax scrolling with any camera system; seamlessly tile background images.
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
