@@ -308,6 +308,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
 * [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+* [Layouter](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
 * [Love Imgui](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
