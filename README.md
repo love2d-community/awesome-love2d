@@ -59,6 +59,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [pathfun](https://github.com/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 * [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 * [Luafinding](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
+* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 
 ## Animation
 *Animation & Frame-Managing Libraries*
