@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Install awesome-lint
         run: npm install -g awesome-lint
       - name: Run awesome-lint
