@@ -6,5 +6,8 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1.0.0
-      - uses: max/awesome-lint@v2.0.0
+      - uses: actions/checkout@v4
+      - name: Install awesome-lint
+        run: npm install -g awesome-lint
+      - name: Run awesome-lint
+        run: npx awesome-lint ./README.md
