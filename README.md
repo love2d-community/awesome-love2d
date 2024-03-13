@@ -160,6 +160,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer.
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
 * [Yonder](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
+* [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 
 ## Input
 *Input & Binding Libraries*
