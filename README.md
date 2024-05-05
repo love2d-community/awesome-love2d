@@ -329,6 +329,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [YALG](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
 * [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
 * [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
+* [Badar 🌕](https://github.com/Nabeel20/Badar) - Declarative, retained\* and flexbox inspired UI library and components.
 
 ## Utilities
 *Non-Game specific libraries and tools*
