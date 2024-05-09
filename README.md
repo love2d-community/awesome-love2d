@@ -398,6 +398,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
+* [Pulsar](https://pulsar-edit.dev/) - Hackable text editor based on the extinct Atom. Has great support and auto-completion works nicely, but for now lacks error highlighting.
 
 ## Distribution
 *Tools that automate game publishing in one way or another*
