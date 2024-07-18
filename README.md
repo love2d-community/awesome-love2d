@@ -388,7 +388,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Pulsar](https://pulsar-edit.dev/) - Hackable text editor based on the extinct Atom; Has great support and auto-completion works nicely, but for now lacks error highlighting.
 	* [autocomplete-love](https://github.com/rameshvarun/autocomplete-love) - Auto-complete and snippets for LÖVE.
 	* [love-ide](https://github.com/rameshvarun/love-ide) - Auto-installs several utilities for writing Love2D games in Pulsar.
-	* [language-lua](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to lua files
+	* [language-lua](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to lua files.
 	* [atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Autocomplete for Lua.
 
 ## Distribution
