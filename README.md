@@ -337,6 +337,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Non-Game specific libraries and tools*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square).
+* [bar128-love](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE.
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data.
 * [colorchanger](https://github.com/santoslove/colorchanger) - Change the colors in your LÖVE game.
@@ -347,6 +348,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser.
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output.
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading.
+* [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
 * [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
@@ -393,11 +395,16 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code.
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode.
-    * [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. Löve specific launch.json example provided.
+	* [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. Löve specific launch.json example provided.
 * [Sublime Text](https://www.sublimetext.com) - Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
+* [Pulsar](https://pulsar-edit.dev/) - Hackable text editor based on the extinct Atom; Has great support and auto-completion works nicely, but for now lacks error highlighting.
+	* [autocomplete-love](https://github.com/rameshvarun/autocomplete-love) - Auto-complete and snippets for LÖVE.
+	* [love-ide](https://github.com/rameshvarun/love-ide) - Auto-installs several utilities for writing Love2D games in Pulsar.
+	* [language-lua](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to lua files.
+	* [atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Autocomplete for Lua.
 
 ## Distribution
 *Tools that automate game publishing in one way or another*
