@@ -335,6 +335,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
+* [bar128-love](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE
+* [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE
 
 ## Tutorials
 *Blogs and tutorials*
