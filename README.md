@@ -310,6 +310,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Non-Game specific libraries and tools*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square).
+* [bar128-love](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE.
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data.
 * [colorchanger](https://github.com/santoslove/colorchanger) - Change the colors in your LÖVE game.
@@ -320,6 +321,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser.
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output.
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading.
+* [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
 * [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
@@ -335,8 +337,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
-* [bar128-love](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE
-* [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE
 
 ## Tutorials
 *Blogs and tutorials*
