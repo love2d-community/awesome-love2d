@@ -336,6 +336,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Utilities
 *Non-Game specific libraries and tools*
 
+* [andromeda](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square).
 * [bar128-love](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE.
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager.
@@ -413,6 +414,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [boon](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
 * [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
 * [love-release](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
+* [lovesfx](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
 * [makelove](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 * [love-deploy](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports).
 * [love-fuser](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
