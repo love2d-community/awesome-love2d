@@ -412,7 +412,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [language-lua](https://github.com/FireZenk/language-lua) - Add syntax highlighting and snippets to lua files.
 	* [atom-autocomplete-lua](https://github.com/dapetcu21/atom-autocomplete-lua) - Autocomplete for Lua.
 * [Zed](https://zed.dev) - Zed is a next-generation code editor designed for high-performance written in rust.
-	* [love2z](https://github.com/alejandro-alzate/love2z) - Beta typing hints for Zed.
+	* [love2z](https://github.com/alejandro-alzate/love2z) - Alejandro's Beta typing hints for Zed.
+	* [love2d](https://github.com/LuaCATS/love2d) - LuaCATS typing hints for the lua language server.
 
 
 ## Distribution
