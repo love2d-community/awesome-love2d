@@ -335,6 +335,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
 * [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Badar 🌕](https://github.com/Nabeel20/Badar) - Simple **custom UI syntax** for easy components compositions.
+* [MeowUI](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
 
 ## Utilities
 *Non-Game specific libraries and tools*
