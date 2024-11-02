@@ -370,6 +370,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
+* [servelove](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
 
 ## Tutorials
 *Blogs and tutorials*
