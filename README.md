@@ -226,6 +226,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
 * [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
 * [selene](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
+* [Object-Library](https://github.com/Virus01Official/Object-Library) - ObjectLibrary is a simple library for the LÖVE2D game engine that allows users to create objects with collision detection and optional textures.
+* [LowerClass](https://github.com/DevonPalma/LowerClass) - A MiddleClass Inspired library with extended features.
 
 ## Performance
 *Performance measurement tools*
