@@ -163,6 +163,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
 * [Yonder](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
 * [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
+* [Love dialogue](https://github.com/Miisan-png/Love-Dialogue) - Simple to use Dialogue Library for Love2d with custom scripting language for dialogues .
 
 ## Input
 *Input & Binding Libraries*
