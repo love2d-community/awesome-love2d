@@ -338,6 +338,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [YUI](https://gitea.it/1414codeforge/yui) - Declarative UI library for LÖVE.
 * [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Badar 🌕](https://github.com/Nabeel20/Badar) - Simple **custom UI syntax** for easy components compositions.
+* [MeowUI](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
 
 ## Utilities
 *Non-Game specific libraries and tools*
@@ -372,6 +373,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [require.lua](https://github.com/premek/require.lua) - Require all files in a folder.
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
+* [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
 * [servelove](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
 
