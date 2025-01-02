@@ -346,6 +346,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [andromeda](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square).
+* [loveAsyncAwait](https://github.com/Sladkokotikov/loveAsyncAwait) - async / await syntax with LÖVE2D and Lua with no dependencies, in just 32 lines of code.
 * [bar128-love](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE.
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data.
