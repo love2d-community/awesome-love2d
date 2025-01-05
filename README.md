@@ -180,6 +180,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Lighting
 *Lighting & Shadow Libraries*
 
+* [bitumbra](https://github.com/a13X-B/bitumbra) - GPU accelerated many lights 2D shadows.
 * [lighter](https://github.com/speakk/lighter) - A performant dynamic light implementation with a simple API.
 * [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for LÖVE.
 * [Light World](https://github.com/tanema/light_world.lua) - A lighting model.
@@ -194,6 +195,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games.
 * [delaunay](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons.
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class.
+* [loaded_dice](https://github.com/a13X-B/loaded_dice) - Walker-Vose alias method implementation (loaded dice-like RNG) useful for rolling loot tables, etc.
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use.
 * [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
 * [shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
