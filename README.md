@@ -367,6 +367,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output.
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading.
 * [love_windows](https://github.com/MiloX3-Silli-Denote/love_windows) - Multiple windows in love2d with the ability for very light interaction between them.
+* [love_instance](https://github.com/MiloX3-Silli-Denote/love_instance) - Better version of the `love_windows` project, open a new instance of love in another window with communication between the two.
 * [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
