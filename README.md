@@ -165,6 +165,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 * [Love dialogue](https://github.com/Miisan-png/Love-Dialogue) - Simple to use Dialogue Library for Love2d with custom scripting language for dialogues.
 * [Love-godot-base](https://github.com/rhysuki/love-godot-base) - Godot-flavored template for LÖVE games.
+* [enum](https://github.com/MiloX3-Silli-Denote/enum) - Enums for lua.
 
 ## Input
 *Input & Binding Libraries*
@@ -249,7 +250,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects.
 * [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
 * [Strike](https://github.com/Aweptimum/Strike) - 2D collision detection library. Extendable, based on Separating-Axis-Theorem.
-* [Slick](https://github.com/erinmaus/slick) - slick is a simple to use polygon collision library inspired by bump.lua.
+* [Slick](https://github.com/erinmaus/slick) - Slick is a simple to use polygon collision library inspired by bump.lua.
 
 ## Platforms
 *Ports for Platforms other than the ones officially supported by LÖVE*
