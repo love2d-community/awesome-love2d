@@ -89,14 +89,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility.
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph.
-* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console.
 * [LoveDebug](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
-* [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
+* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console.
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table.
 * [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds.
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript.
 * [lovelier](https://github.com/patrixr/lovelier) - A LÖVE live reloader with Moonscript support.
 * [loveprofiler](https://github.com/dknight/loveprofiler) - LoveProfiler is an extremely simple logger and profiler.
+* [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
 * [vudu](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
 
 ## Drawing
