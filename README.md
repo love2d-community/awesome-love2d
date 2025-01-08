@@ -183,11 +183,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Lighting & Shadow Libraries*
 
 * [bitumbra](https://github.com/a13X-B/bitumbra) - GPU accelerated many lights 2D shadows.
+* [Light](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation.
+* [Light World](https://github.com/tanema/light_world.lua) - A lighting model.
 * [lighter](https://github.com/speakk/lighter) - A performant dynamic light implementation with a simple API.
 * [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for LÖVE.
-* [Light World](https://github.com/tanema/light_world.lua) - A lighting model.
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation.
-* [Light](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation.
 
 ## Math
 *Math specific Libraries*
