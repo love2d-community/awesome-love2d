@@ -215,11 +215,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Networking & Online-Play Libraries*
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet).  (IPv6)
+* [love2d-lua-websocket](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven websocket client library. (IPv4)
+* [löve-ws](https://github.com/holywyvern/love-ws) - A websocket client and server library.
 * [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet. (IPv4)
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging. (IPv6)
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games. (IPv4)
-* [löve-ws](https://github.com/holywyvern/love-ws) - A websocket client and server library.
-* [love2d-lua-websocket](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven websocket client library. (IPv4)
 
 ## OO
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
@@ -228,12 +228,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons).
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+* [LowerClass](https://github.com/DevonPalma/LowerClass) - A MiddleClass Inspired library with extended features.
 * [lua-obor](https://github.com/MiloX3-Silli-Denote/lua-obor) - Object orriented programming for lua, designed with love2d in mind but applicable in any lua usage.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
 * [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
-* [selene](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
 * [Object-Library](https://github.com/Virus01Official/Object-Library) - ObjectLibrary is a simple library for the LÖVE2D game engine that allows users to create objects with collision detection and optional textures.
-* [LowerClass](https://github.com/DevonPalma/LowerClass) - A MiddleClass Inspired library with extended features.
+* [selene](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
 
 ## Performance
 *Performance measurement tools*
