@@ -266,8 +266,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Publishing
 *Guides to distributing LÖVE games in 3rd party stores*
 
-* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
 * [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file.
+* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
 
 ## Serialization
 *Save Game & Storage Libraries*
