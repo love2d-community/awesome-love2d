@@ -140,32 +140,32 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 * [clove](https://github.com/YoungNeer/clove) - A helper library which allows you to quickly loads huge amount of assets.
 * [ecamira](https://github.com/MiloX3-Silli-Denote/ecamira) - Love2d camera with many features .
+* [enum](https://github.com/MiloX3-Silli-Denote/enum) - Enums for lua.
+* [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 * [grove.color](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - Blend, convert and interpolate colors using 'color objects'.
 * [hump](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 * [iffy](https://github.com/YoungNeer/iffy) - A SpriteSheet and Tileset helper library for LÖVE.
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).
-* [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules.
-* [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
+* [Love-godot-base](https://github.com/rhysuki/love-godot-base) - Godot-flavored template for LÖVE games.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine.
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua Finite State Machine.
 * [lue](https://github.com/Ulydev/lue) - Lue is a LÖVE library that allows you to display hue color effects in your game.
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
+* [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [Manami](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
 * [narrator](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation.
 * [reflowprint](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time.
 * [roomy](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
 * [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in LÖVE. A LÖVE/lua port of rot.js.
-* [YAS](https://github.com/kithf/yas) - Yet Another Screen manager.
 * [SceneMan](https://github.com/KINGTUT10101/SceneMan) - A simple, but powerful scene/gamestate manager that uses a stack, allowing you to run multiple scenes at once.
 * [Scenery](https://github.com/paltze/scenery) - A dead simple scene/state management system.
 * [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework.
 * [shack](https://github.com/Ulydev/shack) - Shack is a LÖVE library that lets you easily add screen effects such as shake and rotation.
+* [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer.
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
+* [YAS](https://github.com/kithf/yas) - Yet Another Screen manager.
 * [Yonder](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
-* [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
-* [Love-godot-base](https://github.com/rhysuki/love-godot-base) - Godot-flavored template for LÖVE games.
-* [enum](https://github.com/MiloX3-Silli-Denote/enum) - Enums for lua.
 
 ## Input
 *Input & Binding Libraries*
