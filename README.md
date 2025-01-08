@@ -41,11 +41,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (design to be used with IQM and IQE).
 * [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z).
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+* [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text).
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary).
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf) - Gltf asset loader and test renderer; Supports skeletal animations and morph targets.
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels.
-* [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 * [Menori](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
 
 
