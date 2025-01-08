@@ -352,7 +352,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [andromeda](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square).
-* [loveAsyncAwait](https://github.com/Sladkokotikov/loveAsyncAwait) - Async / await syntax with LÖVE2D and Lua with no dependencies, in just 32 lines of code.
 * [bar128-love](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE.
 * [cargo](https://github.com/bjornbytes/cargo) - Asset manager.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data.
@@ -363,15 +362,16 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game.
 * [Ini Parser](https://github.com/FivosM/ini_parser) - General purpose ini configuration parser.
 * [KeyedArray](https://github.com/KINGTUT10101/KeyedArray) - A special data structure where items can be found by their position or key. Similar to an ordered dictionary.
+* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output.
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading.
-* [love_windows](https://github.com/MiloX3-Silli-Denote/love_windows) - Multiple windows in love2d with the ability for very light interaction between them.
-* [love_instance](https://github.com/MiloX3-Silli-Denote/love_instance) - Better version of the `love_windows` project, open a new instance of love in another window with communication between the two.
+* [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
 * [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
-* [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
+* [loveAsyncAwait](https://github.com/Sladkokotikov/loveAsyncAwait) - Async / await syntax with LÖVE2D and Lua with no dependencies, in just 32 lines of code.
+* [love_instance](https://github.com/MiloX3-Silli-Denote/love_instance) - Better version of the `love_windows` project, open a new instance of love in another window with communication between the two.
+* [love_windows](https://github.com/MiloX3-Silli-Denote/love_windows) - Multiple windows in love2d with the ability for very light interaction between them.
 * [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
-* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
 * [LuaRequireExtended](https://github.com/KINGTUT10101/LuaRequireExtended) - A Lua module that lets you require files with input parameters and multiple output values.
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API.
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming.
@@ -380,12 +380,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor.
 * [require.lua](https://github.com/premek/require.lua) - Require all files in a folder.
+* [servelove](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
+* [serverstuffs](https://github.com/MiloX3-Silli-Denote/serverstuffs/) - Server/client interaction with lua, intended for love2d.
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
-* [servelove](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
-* [serverstuffs](https://github.com/MiloX3-Silli-Denote/serverstuffs/) - Server/client interaction with lua, intended for love2d.
 
 ## Tutorials
 *Blogs and tutorials*
