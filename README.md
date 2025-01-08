@@ -62,17 +62,17 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Animation
 *Animation & Frame-Managing Libraries*
 
-* [andross](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
+* [Aseprite loader](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
 * [anim8](https://github.com/kikito/anim8) - Animation library.
 * [animx](https://github.com/YoungNeer/animx) - A featureful Animation library for loading animations from XML files!.
-* [Aseprite loader](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
+* [andross](https://github.com/pfirsich/andross) - A Lua library for 2D skeletal/bone animations with a Löve backend.
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com).
-* [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE.
-* [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system.
-* [Walt](https://github.com/davisdude/Walt) - Animation library.
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime.
 * [lovanim](https://github.com/patrixr/love-animation) - A minimal stateful animation library.
+* [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE.
+* [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system.
 * [SYSL-Text](https://github.com/SystemLogoff/SYSL-Text) - Text animation and automatic wrapping library based on tags.
+* [Walt](https://github.com/davisdude/Walt) - Animation library.
 
 ## Camera
 *Viewport & Camera Libraries*
