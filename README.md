@@ -52,12 +52,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
+* [astar](https://github.com/xiejiangzhi/astar) - An other A* library. Any map (grid, point, mesh or infinite map) and support path cost.
+* [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
 * [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding.
-* [astar](https://github.com/xiejiangzhi/astar) - An other A* library. Any map (grid, point, mesh or infinite map) and support path cost.
-* [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
-* [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 * [Luafinding](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
+* [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 
 ## Animation
 *Animation & Frame-Managing Libraries*
