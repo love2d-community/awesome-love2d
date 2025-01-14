@@ -326,6 +326,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
 * [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
 * [lovr-ui2d](https://github.com/immortalx74/lovr-ui2d) - An immediate mode GUI library for LÖVR and LÖVE.
+* [Luis] (https://github.com/SiENcE/luis) - LUIS (Love UI System) - A retained Mode UI Framework for LÖVE with Input processing (mouse, keyboard, touch, gamepad),  Layer-, Grid-, State-, Theming-system, UI Editor, 16+ Widgets (for Desktop & Mobile).
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 * [Patchy](https://github.com/excessive/patchy) - 9patch library.
