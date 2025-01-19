@@ -5,34 +5,36 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Contents
 
-* [3D](#3d)
-* [AI](#ai)
-* [Animation](#animation)
-* [Camera](#camera)
-* [Development](#development)
-* [Drawing](#drawing)
-* [Entity](#entity)
-* [Helpers](#helpers)
-* [Input](#input)
-* [Lighting](#lighting)
-* [Math](#math)
-* [Music](#music)
-* [Networking](#networking)
-* [OO](#oo)
-* [Performance](#performance)
-* [Physics](#physics)
-* [Platforms](#platforms)
-* [Publishing](#publishing)
-* [Serialization](#serialization)
-* [Shaders](#shaders)
-* [Testing](#testing)
-* [Tweening](#tweening)
-* [UI](#ui)
-* [Utilities](#utilities)
-* [Tutorials](#tutorials)
-* [IDEs](#ides)
-* [Distribution](#distribution)
-* [Related](#related)
+- [Awesome Löve ](#awesome-löve-)
+	- [Contents](#contents)
+	- [3D](#3d)
+	- [AI](#ai)
+	- [Animation](#animation)
+	- [Camera](#camera)
+	- [Development](#development)
+	- [Drawing](#drawing)
+	- [Entity](#entity)
+	- [Helpers](#helpers)
+	- [Input](#input)
+	- [Lighting](#lighting)
+	- [Math](#math)
+	- [Music](#music)
+	- [Networking](#networking)
+	- [OO](#oo)
+	- [Performance](#performance)
+	- [Physics](#physics)
+	- [Platforms](#platforms)
+	- [Publishing](#publishing)
+	- [Serialization](#serialization)
+	- [Shaders](#shaders)
+	- [Testing](#testing)
+	- [Tweening](#tweening)
+	- [UI](#ui)
+	- [Utilities](#utilities)
+	- [Tutorials](#tutorials)
+	- [IDEs](#ides)
+	- [Distribution](#distribution)
+	- [Related](#related)
 
 ## 3D
 *3D-centric Libraries*
@@ -372,6 +374,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor.
 * [require.lua](https://github.com/premek/require.lua) - Require all files in a folder.
+* [smiti18n](https://github.com/Oval-Tutu/smiti18n) - A very complete internationalization library for Lua with LÖVE support
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
