@@ -58,6 +58,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 * [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
 * [Luafinding](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
+* [LÖVElyTrees](https://github.com/Nrosa01/LOVElyTrees) - Fully featured behaviour tree implementation with tree rendering.
 
 ## Animation
 *Animation & Frame-Managing Libraries*
