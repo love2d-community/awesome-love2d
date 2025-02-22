@@ -431,6 +431,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 * [love-packager](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 * [boon](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+* [LÖVE Game Development & Automated Build System](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
 * [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
 * [love-release](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [lovesfx](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
