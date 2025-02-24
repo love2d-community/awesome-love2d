@@ -200,6 +200,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
 * [shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
 * [vector.lua](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from processing.
+* [Vornmath](https://github.com/DUznanski/vornmath) - The most comprehensive small vector & matrix, complex number, and quaternion library for Lua.
 
 ## Music
 *Music related libraries*
