@@ -202,6 +202,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
 * [vector.lua](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from processing.
 * [Vornmath](https://github.com/DUznanski/vornmath) - The most comprehensive small vector & matrix, complex number, and quaternion library for Lua.
+* [polysec](https://github.com/dknight/polysec) - A performant and lightweight library to detect polygon and rectangle intersections.
 
 ## Music
 *Music related libraries*
