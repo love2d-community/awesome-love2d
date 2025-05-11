@@ -221,6 +221,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games. (IPv4)
 * [löve-ws](https://github.com/holywyvern/love-ws) - A websocket client and server library.
 * [love2d-lua-websocket](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven websocket client library. (IPv4)
+* [fetch-lua](https://github.com/elloramir/fetch-lua) - An HTTPS/HTTP requests library made only with luajjit
 
 ## OO
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
