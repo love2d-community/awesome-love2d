@@ -370,6 +370,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
 * [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
+* [lover-cli](https://github.com/iamllcoolray/lover-cli) - A simple command line tool for LÖVE game development.
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
 * [LuaRequireExtended](https://github.com/KINGTUT10101/LuaRequireExtended) - A Lua module that lets you require files with input parameters and multiple output values.
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API.
