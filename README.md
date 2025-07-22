@@ -430,6 +430,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Zed](https://zed.dev) - Zed is a next-generation code editor designed for high-performance written in rust.
 	* [love2z](https://github.com/alejandro-alzate/love2z) - Alejandro's Beta typing hints for Zed.
 	* [love2d](https://github.com/LuaCATS/love2d) - LuaCATS typing hints for the lua language server.
+ 	* [Lua extension](https://zed.dev/extensions/lua) - Syntax highlighting, file outline, code formatting, completion and documentation for Lua and LÖVE; to configure with the instructions given on the [Lua Language Support page](https://zed.dev/docs/languages/lua).
 
 
 ## Distribution
