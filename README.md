@@ -335,6 +335,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luis](https://github.com/SiENcE/luis) - LUIS (Love UI System) - A retained Mode UI Framework for LÖVE with Input processing (mouse, keyboard, touch, gamepad),  Layer-, Grid-, State-, Theming-system, UI Editor, 16+ Widgets (for Desktop & Mobile).
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+* [lovepatch](https://github.com/notcl4y14/lovepatch) - A simple 9-patch library for LÖVE.
 * [Patchy](https://github.com/excessive/patchy) - 9patch library.
 * [Slicy](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
