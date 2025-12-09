@@ -350,6 +350,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Badar 🌕](https://github.com/Nabeel20/Badar) - Simple **custom UI syntax** for easy components compositions.
 * [MeowUI](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
+* [LOVELi](https://github.com/mtanksl/LOVELi) - Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.
 
 ## Utilities
 *Non-Game specific libraries and tools*
