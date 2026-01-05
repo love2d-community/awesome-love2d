@@ -22,7 +22,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Performance](#performance)
 * [Physics](#physics)
 * [Platforms](#platforms)
-* [Publishing](#publishing)
 * [Serialization](#serialization)
 * [Shaders](#shaders)
 * [Testing](#testing)
@@ -267,12 +266,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten.
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices.
 
-## Publishing
-*Guides to distributing LÖVE games in 3rd party stores*
-
-* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file.
-
 ## Serialization
 *Save Game & Storage Libraries*
 
@@ -439,7 +432,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 
 ## Distribution
-*Tools that automate game publishing in one way or another*
+*Tools and templates for distributing LÖVE games*
 * [lover](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
 * [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 * [love-packager](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
@@ -452,6 +445,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-build](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
 * [love-deploy](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports).
 * [love-fuser](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
+* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file.
 
 ## Related
 
