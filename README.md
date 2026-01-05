@@ -335,6 +335,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Slicy](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
+* [ProdUI](https://github.com/frank-f-trafton/prod_ui_wip) - A user interface library for the LÖVE Framework.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE.
 * [Slab](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
