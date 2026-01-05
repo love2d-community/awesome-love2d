@@ -103,7 +103,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Artal](https://github.com/EvineDev/Artal) - A .PSD parsing library for LÖVE.
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches.
-* [center](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size.
+* [center](https://github.com/swalrus1/center) - A simple module to dynamically align and fit content to screens of any size.
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes.
 * [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
@@ -289,7 +289,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [busted](https://github.com/lunarmodules/busted) - Simple unit-testing framework with customizable assertions.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework.
-* [Luassert](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests.
+* [Luassert](https://github.com/lunarmodules/luassert) - Extends `assert()` with additional, customizable tests.
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework.
 * [lust](https://github.com/bjornbytes/lust) - Minimal test framework.
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool.
@@ -391,7 +391,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## IDEs
 *Integrated Development Environments and text editor plugins*
 
-* [Brackets](http://brackets.io/) - A modern, open source text editor by Adobe (obsolete).
+* [Brackets](https://brackets.io/) - A modern, open source text editor by Adobe (obsolete).
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - Add Lua syntax highlighting in Brackets.
 	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - Provides LÖVE code hints.
 	* [Run LÖVE](https://github.com/instilledbee/run-love2d) - Launch LÖVE projects with a hotkey.
