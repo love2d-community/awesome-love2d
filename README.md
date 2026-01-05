@@ -164,7 +164,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [shack](https://github.com/Ulydev/shack) - A LÖVE library that lets you easily add screen effects such as shake and rotation.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer.
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
-* [Yonder](https://github.com/thenerdie/Yonder) - A ridiculously easy to use game state management library for LOVE2D.
 * [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 * [Love dialogue](https://github.com/Miisan-png/Love-Dialogue) - Simple to use Dialogue Library for Love2d with custom scripting language for dialogues .
 
@@ -244,7 +243,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [AppleCake](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 * [jprof](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE.
 * [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
-* [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - A simple lua profiler that works with LuaJIT and prints a pretty report file in columns.
 
 ## Physics
 *Collision Detection & Physics Wrappers*
@@ -285,7 +283,6 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
 * [ngrading](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
-* [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader.
 * [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 * [ShaderScan](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
