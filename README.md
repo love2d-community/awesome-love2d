@@ -72,7 +72,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Walt](https://github.com/davisdude/Walt) - Animation library.
 * [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime.
 * [lovanim](https://github.com/patrixr/love-animation) - A minimal stateful animation library.
-* [SYSL-Text](https://github.com/SystemLogoff/SYSL-Text) - Text animation and automatic wrapping library based on tags.
+* [SYSL-Text](https://github.com/sysl-dev/SYSL-Text) - Text animation and automatic wrapping library based on tags.
 
 ## Camera
 *Viewport & Camera Libraries*
@@ -101,7 +101,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
 
-* [Artal](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE.
+* [Artal](https://github.com/EvineDev/Artal) - A .PSD parsing library for LÖVE.
 * [Autobatch](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches.
 * [center](https://github.com/S-Walrus/center) - A simple module to dynamically align and fit content to screens of any size.
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
@@ -139,7 +139,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [astray](https://github.com/SiENcE/astray) - A Lua-based maze, room and dungeon generation library for dungeon crawlers and roguelike video games.
 * [batteries](https://github.com/1bardesign/batteries/) - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
-* [clove](https://github.com/YoungNeer/clove) - A helper library which allows you to quickly loads huge amount of assets.
+* [clove](https://github.com/besnoi/clove) - A helper library which allows you to quickly loads huge amount of assets.
 * [grove.color](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - Blend, convert and interpolate colors using 'color objects'.
 * [hump](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 * [iffy](https://github.com/besnoi/iffy) - A SpriteSheet and Tileset helper library for LÖVE.
@@ -311,7 +311,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
 * [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 * [FlexLöve](https://github.com/mikefreno/FlexLove) - A fully featured GUI library, supporting flexbox/grid/absolute layouts, both immediate and retained mode, 9patch theming and advanced event support.
-* [GOOi](https://github.com/tavuntu/gooi) - Android-oriented GUI library.
+* [GOOi](https://github.com/gustavostuff/gooi) - Android-oriented GUI library.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
 * [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 * [Layouter](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
@@ -400,7 +400,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic Java IDE.
 	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - Lua IDE/Debugger Plugin for VSCode.
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - Snippets and code completion for IntelliJ-IDEA.
-* [Vim](https://vim.sourceforge.io/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.
+* [Vim](https://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.
 	* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim.
 * [Notepad++](https://notepad-plus-plus.org) - A free source code editor and Notepad replacement that supports several languages.
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++.
