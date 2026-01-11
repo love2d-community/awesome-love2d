@@ -23,4 +23,4 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --verbose --no-progress README.md
+          args: --no-progress --config lychee.toml README.md

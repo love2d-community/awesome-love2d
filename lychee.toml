@@ -1,0 +1,26 @@
+# Lychee link checker configuration
+# https://lychee.cli.rs/configuration/
+
+# Maximum number of retries per request
+max_retries = 3
+
+# Time to wait between retries (in seconds)
+retry_wait_time = 2
+
+# Accept these HTTP status codes as valid
+# 429 = Too Many Requests (rate limiting)
+# 503 = Service Unavailable (temporary server issues)
+accept = [200, 429, 503]
+
+# Timeout for each request (in seconds)
+timeout = 30
+
+# Maximum number of concurrent requests
+max_concurrency = 32
+
+# Exclude all private IPs and localhost
+exclude_private = true
+exclude_loopback = true
+
+# Skip URLs that require authentication or commonly block bots
+exclude_all_private = true
