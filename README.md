@@ -40,24 +40,24 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [anim9](https://github.com/excessive/anim9) - 3D skeletal animation library (design to be used with IQM and IQE).
 * [Brinevector3D](https://github.com/flamendless/brinevector3D) - FFI-enabled vector library for 3D (x,y,z).
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) - A 3D collision detection library for Lua.
+* [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 * [IQE](https://github.com/excessive/iqe) - Inter-Quake Export loader (text).
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary).
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf) - Gltf asset loader and test renderer; Supports skeletal animations and morph targets.
 * [Lovox](https://github.com/Keyslam/Lovox) - Pseudo-3D library for working with voxels.
-* [g3d](https://github.com/groverburger/g3d) - Simple and easy 3D engine for LÖVE.
 * [Menori](https://github.com/rozenmad/Menori) - Library for 3D rendering with LÖVE.
 
 
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
-* [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
-* [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding.
 * [astar](https://github.com/xiejiangzhi/astar) - An other A* library. Any map (grid, point, mesh or infinite map) and support path cost.
-* [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 * [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
-* [Luafinding](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
+* [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
 * [LÖVElyTrees](https://github.com/Nrosa01/LOVElyTrees) - Fully featured behaviour tree implementation with tree rendering.
+* [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding.
+* [Luafinding](https://github.com/GlorifiedPig/Luafinding) - Class-based A* implementation written purely in Lua.
+* [pathfun](https://codeberg.org/apicici/pathfun) - Pure Lua library for 2D pathfinding using the funnel algorithm.
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -67,12 +67,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [animx](https://github.com/besnoi/animX) - A featureful Animation library for loading animations from XML files!.
 * [Aseprite loader](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
 * [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com).
+* [lovanim](https://github.com/patrixr/love-animation) - A minimal stateful animation library.
+* [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime.
 * [Peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE.
 * [skeletor](https://github.com/pelevesque/skeletor) - 2D skeletal animation system.
-* [Walt](https://github.com/davisdude/Walt) - Animation library.
-* [Lump](https://github.com/sixFingers/lump) - Adobe Flash animation runtime.
-* [lovanim](https://github.com/patrixr/love-animation) - A minimal stateful animation library.
 * [SYSL-Text](https://github.com/sysl-dev/SYSL-Text) - Text animation and automatic wrapping library based on tags.
+* [Walt](https://github.com/davisdude/Walt) - Animation library.
 
 ## Camera
 *Viewport & Camera Libraries*
@@ -87,16 +87,16 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Development
 *Development assisting Libraries, that enrich your development experience*
 
-* [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility.
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph.
-* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console.
-* [LoveDebug](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
-* [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
+* [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility.
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table.
 * [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds.
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript.
+* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console.
+* [LoveDebug](https://github.com/flamendless/lovedebug) - Inline console-like debugger utility.
 * [lovelier](https://github.com/patrixr/lovelier) - A LÖVE live reloader with Moonscript support.
 * [loveprofiler](https://github.com/dknight/loveprofiler) - An extremely simple logger and profiler.
+* [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
 * [vudu](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
 
 ## Drawing
@@ -107,6 +107,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [center](https://github.com/swalrus1/center) - A simple module to dynamically align and fit content to screens of any size.
 * [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls.
 * [draft](https://github.com/pelevesque/draft) - A module for drawing complex shapes.
+* [Export-TextureAtlas](https://github.com/EngineerSmith/Export-TextureAtlas) - Extends Runtime-TextureAtlas as a commandline tool to export an atlas.
 * [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
 * [Hot particles](https://github.com/ReFreezed/HotParticles) - "Hot Particles is a particle editor for the LÖVE game framework."
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL).
@@ -114,13 +115,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE.
 * [renderplanet](https://github.com/meric/renderplanet/) - Realistic orthographic planet rendering.
 * [Resolution Solution](https://github.com/grif-on/love2d_resolution_solution) - Scale library, that help you add resolution support to your games!
+* [Runtime-TextureAtlas](https://github.com/EngineerSmith/Runtime-TextureAtlas) - Texture atlas packer and renderer at runtime; no external tools.
 * [Shöve](https://github.com/Oval-Tutu/shove) - A powerful resolution-handler and rendering library for LÖVE.
+* [Sölar](https://github.com/JanWerder/soelar) - A fairly simple solar system simulator.
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE.
 * [SYSL-Pixel](https://github.com/sysl-dev/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
-* [Sölar](https://github.com/JanWerder/soelar) - A fairly simple solar system simulator.
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE.
-* [Runtime-TextureAtlas](https://github.com/EngineerSmith/Runtime-TextureAtlas) - Texture atlas packer and renderer at runtime; no external tools.
-* [Export-TextureAtlas](https://github.com/EngineerSmith/Export-TextureAtlas) - Extends Runtime-TextureAtlas as a commandline tool to export an atlas.
 
 ## Entity
 *Entity and Gameobject Managing Libraries*
@@ -140,13 +140,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [batteries](https://github.com/1bardesign/batteries/) - Fills out lua's sparse standard library and provides implementations of common algorithms and data structures useful for games.
 * [cartographer](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
 * [clove](https://github.com/besnoi/clove) - A helper library which allows you to quickly loads huge amount of assets.
+* [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
 * [grove.color](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - Blend, convert and interpolate colors using 'color objects'.
 * [hump](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 * [iffy](https://github.com/besnoi/iffy) - A SpriteSheet and Tileset helper library for LÖVE.
 * [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer).
-* [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules.
-* [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
+* [Love dialogue](https://github.com/Miisan-png/Love-Dialogue) - Simple to use Dialogue Library for Love2d with custom scripting language for dialogues .
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine.
+* [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua Finite State Machine.
 * [lue](https://github.com/Ulydev/lue) - A LÖVE library that allows you to display hue color effects in your game.
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
@@ -160,10 +161,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Scenery](https://github.com/paltze/scenery) - A dead simple scene/state management system.
 * [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework.
 * [shack](https://github.com/Ulydev/shack) - A LÖVE library that lets you easily add screen effects such as shake and rotation.
+* [shard](https://github.com/MineGame159/shard) - Collection of useful mini modules.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer.
 * [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library.
-* [GameStateManager](https://github.com/GwyrddGlas/GameStateManager) - A lightweight, optimized, and easy-to-implement solution for efficient game state management.
-* [Love dialogue](https://github.com/Miisan-png/Love-Dialogue) - Simple to use Dialogue Library for Love2d with custom scripting language for dialogues .
 
 ## Input
 *Input & Binding Libraries*
@@ -181,11 +181,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Lighting & Shadow Libraries*
 
 * [bitumbra](https://github.com/a13X-B/bitumbra) - GPU accelerated many lights 2D shadows.
+* [Light](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation.
+* [Light World](https://github.com/tanema/light_world.lua) - A lighting model.
 * [lighter](https://github.com/speakk/lighter) - A performant dynamic light implementation with a simple API.
 * [Shädows](https://github.com/matiasah/shadows) - A Shadows & Lights engine for LÖVE.
-* [Light World](https://github.com/tanema/light_world.lua) - A lighting model.
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation.
-* [Light](https://github.com/xiejiangzhi/light) - A simple dynamic light implementation.
 
 ## Math
 *Math specific Libraries*
@@ -198,10 +198,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [loaded_dice](https://github.com/a13X-B/loaded_dice) - Walker-Vose alias method implementation (loaded dice-like RNG) useful for rolling loot tables, etc.
 * [MLib](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use.
 * [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - Hump.vector-compatible LuaJIT FFI-accelerated 2D vector library.
+* [polysec](https://github.com/dknight/polysec) - A performant and lightweight library to detect polygon and rectangle intersections.
 * [shash](https://github.com/rxi/shash) - A simple, lightweight spatial hash for Lua.
 * [vector.lua](https://github.com/automattf/vector.lua) - A simple vector library based on the PVector class from processing.
 * [Vornmath](https://github.com/DUznanski/vornmath) - The most comprehensive small vector & matrix, complex number, and quaternion library for Lua.
-* [polysec](https://github.com/dknight/polysec) - A performant and lightweight library to detect polygon and rectangle intersections.
 
 ## Music
 *Music related libraries*
@@ -214,13 +214,13 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Networking
 *Networking & Online-Play Libraries*
 
+* [fetch-lua](https://github.com/elloramir/fetch-lua) - An HTTPS/HTTP requests library made only with luajjit.
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet).  (IPv6)
+* [löve-ws](https://github.com/holywyvern/love-ws) - A WebSocket client and server library.
+* [love2d-lua-websocket](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven WebSocket client library. (IPv4)
 * [LoverNet](https://github.com/josefnpat/LoverNet) - A networking library that leverages bitser and enet. (IPv4)
 * [NoobHub](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging. (IPv6)
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games. (IPv4)
-* [löve-ws](https://github.com/holywyvern/love-ws) - A WebSocket client and server library.
-* [love2d-lua-websocket](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven WebSocket client library. (IPv4)
-* [fetch-lua](https://github.com/elloramir/fetch-lua) - An HTTPS/HTTP requests library made only with luajjit.
 
 ## OO
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
@@ -229,11 +229,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [classic](https://github.com/rxi/classic/) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction.
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons).
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+* [LowerClass](https://github.com/DevonPalma/LowerClass) - A MiddleClass Inspired library with extended features.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
 * [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
-* [selene](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
 * [Object-Library](https://github.com/Virus01Official/Object-Library) - ObjectLibrary is a simple library for the LÖVE2D game engine that allows users to create objects with collision detection and optional textures.
-* [LowerClass](https://github.com/DevonPalma/LowerClass) - A MiddleClass Inspired library with extended features.
+* [selene](https://github.com/novafacing/selene) - Project template for writing games in Moonscript instead of Lua without precompiling.
 
 ## Performance
 *Performance measurement tools*
@@ -255,11 +255,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Platforms
 *Ports for Platforms other than the ones officially supported by LÖVE*
 
-* [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
-* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
 * [LÖVE Potion](https://github.com/lovebrew/lovepotion) - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
 * [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
 * [Love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten.
+* [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
+* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices.
 
 ## Serialization
@@ -280,8 +280,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *GLSL related Libraries*
 
 * [LoveShaderConverter](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes.
-* [ngrading](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 * [Moonshine](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+* [ngrading](https://github.com/MikuAuahDark/NPad93/tree/master/ngrading) - Simple color grading library.
 * [ShaderScan](https://github.com/idbrii/love-shaderscan) - Adds hot reload, includes, and better error messages for faster shader iteration.
 
 ## Testing
@@ -308,37 +308,37 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## UI
 *User Interface Libraries*
 
+* [Badar 🌕](https://github.com/Nabeel20/Badr) - Simple **custom UI syntax** for easy components compositions.
 * [CatUI](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE.
 * [cimgui-love](https://codeberg.org/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 * [FlexLöve](https://github.com/mikefreno/FlexLove) - A fully featured GUI library, supporting flexbox/grid/absolute layouts, both immediate and retained mode, 9patch theming and advanced event support.
 * [GOOi](https://github.com/gustavostuff/gooi) - Android-oriented GUI library.
 * [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements; gamepad-friendly.
 * [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+* [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Layouter](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
-* [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
 * [Love Imgui](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
+* [LoveFrames Fork](https://github.com/linux-man/LoveFrames) - 11.2 Fork of a GUI library.
+* [LOVELi](https://github.com/mtanksl/LOVELi) - Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.
 * [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
+* [lovepatch](https://github.com/notcl4y14/lovepatch) - A simple 9-patch library for LÖVE.
 * [lovr-ui2d](https://github.com/immortalx74/lovr-ui2d) - An immediate mode GUI library for LÖVR and LÖVE.
 * [Luis](https://github.com/SiENcE/luis) - Love UI System - A retained mode UI framework for LÖVE with input processing (mouse, keyboard, touch, gamepad), layer-, grid-, state-, theming-system, UI editor, 16+ widgets (for desktop & mobile).
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
+* [MeowUI](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
-* [lovepatch](https://github.com/notcl4y14/lovepatch) - A simple 9-patch library for LÖVE.
 * [Patchy](https://github.com/excessive/patchy) - 9patch library.
-* [Slicy](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [ProdUI](https://github.com/frank-f-trafton/prod_ui_wip) - A user interface library for the LÖVE Framework.
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE.
 * [Slab](https://github.com/flamendless/Slab) - An immediate mode GUI toolkit for the LÖVE framework.
+* [Slicy](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [SUIT](https://github.com/vrld/SUIT) - Small immediate mode GUI library.
 * [TuxRedux](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
 * [YALG](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
-* [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
-* [Badar 🌕](https://github.com/Nabeel20/Badr) - Simple **custom UI syntax** for easy components compositions.
-* [MeowUI](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
-* [LOVELi](https://github.com/mtanksl/LOVELi) - Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.
 
 ## Utilities
 *Non-Game specific libraries and tools*
@@ -355,38 +355,38 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game.
 * [Ini Parser](https://github.com/nobytesgiven/ini_parser) - General purpose ini configuration parser.
 * [KeyedArray](https://github.com/KINGTUT10101/KeyedArray) - A special data structure where items can be found by their position or key. Similar to an ordered dictionary.
+* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output.
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading.
+* [love-pe](https://github.com/Rami-Sabbagh/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
 * [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
-* [love-pe](https://github.com/Rami-Sabbagh/love-pe) - A tool made in LÖVE for changing LÖVE icon itself.
 * [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
-* [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
 * [LuaRequireExtended](https://github.com/KINGTUT10101/LuaRequireExtended) - A Lua module that lets you require files with input parameters and multiple output values.
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API.
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming.
 * [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux.
 * [nativefs](https://github.com/EngineerSmith/nativefs) - Read and write files outside of LÖVE's allowed paths.
-* [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - A basic LÖVE particle system editor.
+* [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - An editor of particle for LÖVE.
 * [require.lua](https://github.com/premek/require.lua) - Require all files in a folder.
+* [servelove](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
+* [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [smiti18n](https://github.com/Oval-Tutu/smiti18n) - A very complete internationalization library for Lua with LÖVE support.
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library.
-* [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - Uses accelerometer data for shake device detection written in Lua.
 * [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
-* [servelove](https://github.com/YellowButShort/servelove/) - A web server library that runs on love.
 
 ## Tutorials
 *Blogs and tutorials*
 
-* [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
-* [Using Tiled Maps in LÖVE (archived)](https://web.archive.org/web/20230314215611/http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
-* [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
-* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
-* [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
-* [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
 * [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - A tutorial on packaging LÖVE games for the web.
+* [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
+* [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
+* [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
+* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
+* [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
+* [Using Tiled Maps in LÖVE (archived)](https://web.archive.org/web/20230314215611/http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
 
 ## IDEs
 *Integrated Development Environments and text editor plugins*
@@ -427,25 +427,25 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 ## Distribution
 *Tools and templates for distributing LÖVE games*
-* [lover](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
-* [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
-* [love-packager](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
+* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
 * [boon](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
+* [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 * [LÖVE Game Development & Automated Build System](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
-* [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
-* [love-release](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
-* [lovesfx](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
-* [makelove](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 * [love-build](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
 * [love-deploy](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports).
+* [love-export](https://github.com/dmoa/love-export) - Fast and simple command-line tool that builds binaries for you. Supports Windows, macOS, and Linux.
 * [love-fuser](https://github.com/MikuAuahDark/love-fuser) - Packages LÖVE Games using GitHub Actions. Supports Windows, Linux, and Android.
+* [love-packager](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
+* [love-release](https://github.com/MisterDA/love-release) - A Lua script that automates game distribution. Supports Windows, macOS, Debian, Linux.
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store.
-* [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
+* [lover](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
+* [lovesfx](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
+* [makelove](https://github.com/pfirsich/makelove) - Advanced multi-platform tool to fuse your game written in Python 3. Supports Windows and Linux with AppImage.
 
 ## Related
 
-* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE.
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses.
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more.
 
 Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
