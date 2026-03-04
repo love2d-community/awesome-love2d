@@ -53,6 +53,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [astar](https://github.com/xiejiangzhi/astar) - An other A* library. Any map (grid, point, mesh or infinite map) and support path cost.
 * [beehive.lua](https://github.com/drhayes/beehive.lua) - A functional behavior tree implementation.
+* [FluadHTN](https://github.com/Safebox36/OdaiHTN) - A powerful hierarchical task network for AI planning.
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library.
 * [LÖVElyTrees](https://github.com/Nrosa01/LOVElyTrees) - Fully featured behaviour tree implementation with tree rendering.
 * [Lua-star](https://github.com/wesleywerner/lua-star) - Easy and pure Lua A* path finding.
