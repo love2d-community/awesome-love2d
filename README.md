@@ -98,6 +98,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [loveprofiler](https://github.com/dknight/loveprofiler) - An extremely simple logger and profiler.
 * [lurker](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game.
 * [vudu](https://github.com/deltadaedalus/vudu) - Broad in-game debugging gui with a console, variable browser/editor, speed controls, and more.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for LOVE2D game development workflow orchestration, automated game pipeline management, and multi-agent coordination. MIT licensed.
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
