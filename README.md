@@ -321,6 +321,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Helium](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 * [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Layouter](https://github.com/nekromoff/layouter) - A simple UI **grid layout** library for LÖVE 2D game engine.
+* [likelihud](https://github.com/LRDPRDX/LikeliHUD) - A simple UI library with a declarative QML-like approach of defining UI.
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 * [Love Imgui](https://github.com/slages/love-imgui) - Imgui module for the LÖVE game engine.
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games.
