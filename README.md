@@ -120,6 +120,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Runtime-TextureAtlas](https://github.com/EngineerSmith/Runtime-TextureAtlas) - Texture atlas packer and renderer at runtime; no external tools.
 * [Shöve](https://github.com/Oval-Tutu/shove) - A powerful resolution-handler and rendering library for LÖVE.
 * [Sölar](https://github.com/JanWerder/soelar) - A fairly simple solar system simulator.
+* [Sunscreen](https://github.com/challacade/sunscreen) – A small, dependency-free virtual-resolution helper for LÖVE.
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE.
 * [SYSL-Pixel](https://github.com/sysl-dev/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE.
