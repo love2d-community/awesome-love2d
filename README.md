@@ -370,6 +370,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [love-qrcode](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader.
 * [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using LÖVE easier and with Moonscript support.
+* [Lovely-Screensaver](https://github.com/sedat-34/Lovely-Screensaver) - Proof-of-concept Windows 10/11 screensaver;Supports Windows screensaver standard CLI arguments.
 * [LuaRequireExtended](https://github.com/KINGTUT10101/LuaRequireExtended) - A Lua module that lets you require files with input parameters and multiple output values.
 * [luasteam](https://github.com/uspgamedev/luasteam) - Lua bindings for the Steamworks API.
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming.
