@@ -120,7 +120,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Runtime-TextureAtlas](https://github.com/EngineerSmith/Runtime-TextureAtlas) - Texture atlas packer and renderer at runtime; no external tools.
 * [Shöve](https://github.com/Oval-Tutu/shove) - A powerful resolution-handler and rendering library for LÖVE.
 * [Sölar](https://github.com/JanWerder/soelar) - A fairly simple solar system simulator.
-* [Sunscreen](https://github.com/challacade/sunscreen) – A small, dependency-free virtual-resolution helper for LÖVE.
+* [Sunscreen](https://github.com/challacade/sunscreen) - A small, dependency-free virtual-resolution helper for LÖVE.
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE.
 * [SYSL-Pixel](https://github.com/sysl-dev/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) - Turtle graphics library for LÖVE.
@@ -234,6 +234,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons).
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [LowerClass](https://github.com/DevonPalma/LowerClass) - A MiddleClass Inspired library with extended features.
+* [lua-class](https://github.com/LRDPRDX/lua-class) - A simple class implementation in Lua
+(inheritance, constructor calls).
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons).
 * [muun](https://github.com/megagrump/muun) - Moonscript compatible class implementation.
 * [Object-Library](https://github.com/Virus01Official/Object-Library) - ObjectLibrary is a simple library for the LÖVE2D game engine that allows users to create objects with collision detection and optional textures.
