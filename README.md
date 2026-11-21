@@ -432,6 +432,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [love2d](https://github.com/LuaCATS/love2d) - LuaCATS typing hints for the lua language server.
  	* [Lua extension](https://zed.dev/extensions/lua) - Syntax highlighting, file outline, code formatting, completion and documentation for Lua and LÖVE; to configure with the instructions given on the [Lua Language Support page](https://zed.dev/docs/languages/lua).
 * [Love2D WebIDE](https://love.ivie.codes/) - Completely web based IDE for writing Love2D games.
+* [Love2D Studio](https://marknoteapp.com/love2d-studio) - Craft fantastic games from iPhone/iPad.
 
 
 ## Distribution
